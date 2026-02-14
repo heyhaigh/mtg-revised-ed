@@ -1,0 +1,5198 @@
+[
+  {
+    "id": "dffd3a5f-066b-40c2-99e0-dba1771c899d",
+    "name": "Animate Wall",
+    "collector_number": "1",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/f/dffd3a5f-066b-40c2-99e0-dba1771c899d.jpg?1559597175",
+    "image_small": "https://cards.scryfall.io/small/front/d/f/dffd3a5f-066b-40c2-99e0-dba1771c899d.jpg?1559597175",
+    "price_usd": "0.94",
+    "tcgplayer_id": 1332,
+    "price_market": "0.94",
+    "price_median": "0.88"
+  },
+  {
+    "id": "605e9a62-53e4-4771-9730-56c78237004a",
+    "name": "Armageddon",
+    "collector_number": "2",
+    "type_line": "Sorcery",
+    "mana_cost": "{3}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/0/605e9a62-53e4-4771-9730-56c78237004a.jpg?1559596761",
+    "image_small": "https://cards.scryfall.io/small/front/6/0/605e9a62-53e4-4771-9730-56c78237004a.jpg?1559596761",
+    "price_usd": "13.66",
+    "tcgplayer_id": 1334,
+    "price_market": "13.66",
+    "price_median": "13.59"
+  },
+  {
+    "id": "a21b08d4-b43d-4c93-99e7-39dfe83ced91",
+    "name": "Balance",
+    "collector_number": "3",
+    "type_line": "Sorcery",
+    "mana_cost": "{1}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/2/a21b08d4-b43d-4c93-99e7-39dfe83ced91.jpg?1559596704",
+    "image_small": "https://cards.scryfall.io/small/front/a/2/a21b08d4-b43d-4c93-99e7-39dfe83ced91.jpg?1559596704",
+    "price_usd": "4.44",
+    "tcgplayer_id": 1340,
+    "price_market": "4.44",
+    "price_median": "4"
+  },
+  {
+    "id": "63e06cd7-9f00-4343-86c2-9f74945193c2",
+    "name": "Benalish Hero",
+    "collector_number": "4",
+    "type_line": "Creature — Human Soldier",
+    "mana_cost": "{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/63e06cd7-9f00-4343-86c2-9f74945193c2.jpg?1559597171",
+    "image_small": "https://cards.scryfall.io/small/front/6/3/63e06cd7-9f00-4343-86c2-9f74945193c2.jpg?1559597171",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1343,
+    "price_market": "0.17",
+    "price_median": "0.25"
+  },
+  {
+    "id": "c5b6b0a4-bda8-422c-bddb-b2a0ba545596",
+    "name": "Black Ward",
+    "collector_number": "5",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/5/c5b6b0a4-bda8-422c-bddb-b2a0ba545596.jpg?1559596604",
+    "image_small": "https://cards.scryfall.io/small/front/c/5/c5b6b0a4-bda8-422c-bddb-b2a0ba545596.jpg?1559596604",
+    "price_usd": "0.24",
+    "tcgplayer_id": 1347,
+    "price_market": "0.24",
+    "price_median": "0.29"
+  },
+  {
+    "id": "f64f6100-c26a-4b22-9fa6-ab3f287a94aa",
+    "name": "Blessing",
+    "collector_number": "6",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Julie Baroh",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/6/f64f6100-c26a-4b22-9fa6-ab3f287a94aa.jpg?1559596802",
+    "image_small": "https://cards.scryfall.io/small/front/f/6/f64f6100-c26a-4b22-9fa6-ab3f287a94aa.jpg?1559596802",
+    "price_usd": "2.62",
+    "tcgplayer_id": 1348,
+    "price_market": "2.62",
+    "price_median": "1.65"
+  },
+  {
+    "id": "9b79eaa0-8a15-4828-9ab7-16c2aab5f19f",
+    "name": "Blue Ward",
+    "collector_number": "7",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/b/9b79eaa0-8a15-4828-9ab7-16c2aab5f19f.jpg?1559596890",
+    "image_small": "https://cards.scryfall.io/small/front/9/b/9b79eaa0-8a15-4828-9ab7-16c2aab5f19f.jpg?1559596890",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1350,
+    "price_market": "0.23",
+    "price_median": "0.25"
+  },
+  {
+    "id": "434f2329-ea4c-41ba-ab62-857076d76442",
+    "name": "Castle",
+    "collector_number": "8",
+    "type_line": "Enchantment",
+    "mana_cost": "{3}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/3/434f2329-ea4c-41ba-ab62-857076d76442.jpg?1559596954",
+    "image_small": "https://cards.scryfall.io/small/front/4/3/434f2329-ea4c-41ba-ab62-857076d76442.jpg?1559596954",
+    "price_usd": "0.35",
+    "tcgplayer_id": 1356,
+    "price_market": "0.35",
+    "price_median": "0.35"
+  },
+  {
+    "id": "c498313d-bb29-4ab9-ab2f-31bdc3d9f78a",
+    "name": "Circle of Protection: Black",
+    "collector_number": "9",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/4/c498313d-bb29-4ab9-ab2f-31bdc3d9f78a.jpg?1559596864",
+    "image_small": "https://cards.scryfall.io/small/front/c/4/c498313d-bb29-4ab9-ab2f-31bdc3d9f78a.jpg?1559596864",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1360,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "539809fc-fdeb-4345-a920-37fdb782fdd8",
+    "name": "Circle of Protection: Blue",
+    "collector_number": "10",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/3/539809fc-fdeb-4345-a920-37fdb782fdd8.jpg?1559596702",
+    "image_small": "https://cards.scryfall.io/small/front/5/3/539809fc-fdeb-4345-a920-37fdb782fdd8.jpg?1559596702",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1361,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "251e0407-b49a-4ee5-83a1-1523ff03a7a7",
+    "name": "Circle of Protection: Green",
+    "collector_number": "11",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/5/251e0407-b49a-4ee5-83a1-1523ff03a7a7.jpg?1559596861",
+    "image_small": "https://cards.scryfall.io/small/front/2/5/251e0407-b49a-4ee5-83a1-1523ff03a7a7.jpg?1559596861",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1362,
+    "price_market": "0.14",
+    "price_median": "0.24"
+  },
+  {
+    "id": "b66cadb3-705d-44d3-9277-5d53cd42dae1",
+    "name": "Circle of Protection: Red",
+    "collector_number": "12",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690",
+    "image_small": "https://cards.scryfall.io/small/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690",
+    "price_usd": "0.18",
+    "tcgplayer_id": 1363,
+    "price_market": "0.18",
+    "price_median": "0.25"
+  },
+  {
+    "id": "7f113b87-8569-45b2-b644-fb3f4890c2ca",
+    "name": "Circle of Protection: White",
+    "collector_number": "13",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/f/7f113b87-8569-45b2-b644-fb3f4890c2ca.jpg?1559596863",
+    "image_small": "https://cards.scryfall.io/small/front/7/f/7f113b87-8569-45b2-b644-fb3f4890c2ca.jpg?1559596863",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1364,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "70182de2-253f-47d4-ac46-bec4a88b578e",
+    "name": "Conversion",
+    "collector_number": "14",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/0/70182de2-253f-47d4-ac46-bec4a88b578e.jpg?1559596700",
+    "image_small": "https://cards.scryfall.io/small/front/7/0/70182de2-253f-47d4-ac46-bec4a88b578e.jpg?1559596700",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1371,
+    "price_market": "0.21",
+    "price_median": "0.3"
+  },
+  {
+    "id": "5670c4c0-b8c3-4100-8cd9-c176b29fe01c",
+    "name": "Crusade",
+    "collector_number": "15",
+    "type_line": "Enchantment",
+    "mana_cost": "{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165",
+    "price_usd": null,
+    "tcgplayer_id": null,
+    "price_market": null,
+    "price_median": null
+  },
+  {
+    "id": "555011ea-f03a-4815-b593-cc5d92bba7bd",
+    "name": "Death Ward",
+    "collector_number": "16",
+    "type_line": "Instant",
+    "mana_cost": "{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/5/555011ea-f03a-4815-b593-cc5d92bba7bd.jpg?1559596959",
+    "image_small": "https://cards.scryfall.io/small/front/5/5/555011ea-f03a-4815-b593-cc5d92bba7bd.jpg?1559596959",
+    "price_usd": "0.20",
+    "tcgplayer_id": 1383,
+    "price_market": "0.2",
+    "price_median": "0.25"
+  },
+  {
+    "id": "41859c6f-1017-42ae-9061-050fe0db9731",
+    "name": "Disenchant",
+    "collector_number": "17",
+    "type_line": "Instant",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/1/41859c6f-1017-42ae-9061-050fe0db9731.jpg?1559597158",
+    "image_small": "https://cards.scryfall.io/small/front/4/1/41859c6f-1017-42ae-9061-050fe0db9731.jpg?1559597158",
+    "price_usd": "0.27",
+    "tcgplayer_id": 1391,
+    "price_market": "0.27",
+    "price_median": "0.3"
+  },
+  {
+    "id": "23c35f2c-0442-46f3-966b-667bad6e0e27",
+    "name": "Eye for an Eye",
+    "collector_number": "18",
+    "type_line": "Instant",
+    "mana_cost": "{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/3/23c35f2c-0442-46f3-966b-667bad6e0e27.jpg?1559596705",
+    "image_small": "https://cards.scryfall.io/small/front/2/3/23c35f2c-0442-46f3-966b-667bad6e0e27.jpg?1559596705",
+    "price_usd": "1.19",
+    "tcgplayer_id": 1410,
+    "price_market": "1.19",
+    "price_median": "1"
+  },
+  {
+    "id": "75a45b69-1b8d-4b66-a0bf-6142172c7d27",
+    "name": "Farmstead",
+    "collector_number": "19",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/5/75a45b69-1b8d-4b66-a0bf-6142172c7d27.jpg?1559596697",
+    "image_small": "https://cards.scryfall.io/small/front/7/5/75a45b69-1b8d-4b66-a0bf-6142172c7d27.jpg?1559596697",
+    "price_usd": "1.01",
+    "tcgplayer_id": 1411,
+    "price_market": "1.01",
+    "price_median": "1.01"
+  },
+  {
+    "id": "c1270551-607c-4ef3-88e7-45b4e2445045",
+    "name": "Green Ward",
+    "collector_number": "20",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/1/c1270551-607c-4ef3-88e7-45b4e2445045.jpg?1559596929",
+    "image_small": "https://cards.scryfall.io/small/front/c/1/c1270551-607c-4ef3-88e7-45b4e2445045.jpg?1559596929",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1438,
+    "price_market": "0.23",
+    "price_median": "0.25"
+  },
+  {
+    "id": "74da83ea-8302-4927-a355-331636950572",
+    "name": "Guardian Angel",
+    "collector_number": "21",
+    "type_line": "Instant",
+    "mana_cost": "{X}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/4/74da83ea-8302-4927-a355-331636950572.jpg?1559596669",
+    "image_small": "https://cards.scryfall.io/small/front/7/4/74da83ea-8302-4927-a355-331636950572.jpg?1559596669",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1440,
+    "price_market": "0.17",
+    "price_median": "0.24"
+  },
+  {
+    "id": "3300b080-a6f5-4a4a-8faf-0206fbfe8988",
+    "name": "Healing Salve",
+    "collector_number": "22",
+    "type_line": "Instant",
+    "mana_cost": "{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/3/3300b080-a6f5-4a4a-8faf-0206fbfe8988.jpg?1559596753",
+    "image_small": "https://cards.scryfall.io/small/front/3/3/3300b080-a6f5-4a4a-8faf-0206fbfe8988.jpg?1559596753",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1441,
+    "price_market": "0.14",
+    "price_median": "0.25"
+  },
+  {
+    "id": "e53412cc-2246-47b5-a212-edee7fac4a54",
+    "name": "Holy Armor",
+    "collector_number": "23",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/5/e53412cc-2246-47b5-a212-edee7fac4a54.jpg?1559597122",
+    "image_small": "https://cards.scryfall.io/small/front/e/5/e53412cc-2246-47b5-a212-edee7fac4a54.jpg?1559597122",
+    "price_usd": "0.13",
+    "tcgplayer_id": 1444,
+    "price_market": "0.13",
+    "price_median": "0.24"
+  },
+  {
+    "id": "37414560-8187-4c5b-8245-05d77b25c454",
+    "name": "Holy Strength",
+    "collector_number": "24",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/7/37414560-8187-4c5b-8245-05d77b25c454.jpg?1559596681",
+    "image_small": "https://cards.scryfall.io/small/front/3/7/37414560-8187-4c5b-8245-05d77b25c454.jpg?1559596681",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1445,
+    "price_market": "0.17",
+    "price_median": "0.25"
+  },
+  {
+    "id": "9973e59d-09ca-4647-85dd-15838cf63c2d",
+    "name": "Island Sanctuary",
+    "collector_number": "25",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/9/9973e59d-09ca-4647-85dd-15838cf63c2d.jpg?1559596590",
+    "image_small": "https://cards.scryfall.io/small/front/9/9/9973e59d-09ca-4647-85dd-15838cf63c2d.jpg?1559596590",
+    "price_usd": "4.52",
+    "tcgplayer_id": 1459,
+    "price_market": "4.52",
+    "price_median": "3.5"
+  },
+  {
+    "id": "b316838d-2414-4d0c-a25f-132b7462064a",
+    "name": "Karma",
+    "collector_number": "26",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/3/b316838d-2414-4d0c-a25f-132b7462064a.jpg?1559596968",
+    "image_small": "https://cards.scryfall.io/small/front/b/3/b316838d-2414-4d0c-a25f-132b7462064a.jpg?1559596968",
+    "price_usd": "0.31",
+    "tcgplayer_id": 1468,
+    "price_market": "0.31",
+    "price_median": "0.31"
+  },
+  {
+    "id": "d023e930-f974-40a8-8832-9357350bc7ae",
+    "name": "Lance",
+    "collector_number": "27",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/0/d023e930-f974-40a8-8832-9357350bc7ae.jpg?1559596781",
+    "image_small": "https://cards.scryfall.io/small/front/d/0/d023e930-f974-40a8-8832-9357350bc7ae.jpg?1559596781",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1473,
+    "price_market": "0.23",
+    "price_median": "0.28"
+  },
+  {
+    "id": "ce7e6bfb-9038-48b5-bfaf-9450c503c69e",
+    "name": "Mesa Pegasus",
+    "collector_number": "28",
+    "type_line": "Creature — Pegasus",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/e/ce7e6bfb-9038-48b5-bfaf-9450c503c69e.jpg?1559596623",
+    "image_small": "https://cards.scryfall.io/small/front/c/e/ce7e6bfb-9038-48b5-bfaf-9450c503c69e.jpg?1559596623",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1496,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "5ef69d3f-cbad-4069-82dc-4dbfb35377f4",
+    "name": "Northern Paladin",
+    "collector_number": "29",
+    "type_line": "Creature — Human Knight",
+    "mana_cost": "{2}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/e/5ef69d3f-cbad-4069-82dc-4dbfb35377f4.jpg?1559597155",
+    "image_small": "https://cards.scryfall.io/small/front/5/e/5ef69d3f-cbad-4069-82dc-4dbfb35377f4.jpg?1559597155",
+    "price_usd": "1.61",
+    "tcgplayer_id": 1509,
+    "price_market": "1.61",
+    "price_median": "1.43"
+  },
+  {
+    "id": "a450ce98-4854-4378-8809-27019b3800c2",
+    "name": "Pearled Unicorn",
+    "collector_number": "30",
+    "type_line": "Creature — Unicorn",
+    "mana_cost": "{2}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Cornelius Brudi",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/4/a450ce98-4854-4378-8809-27019b3800c2.jpg?1559596723",
+    "image_small": "https://cards.scryfall.io/small/front/a/4/a450ce98-4854-4378-8809-27019b3800c2.jpg?1559596723",
+    "price_usd": "0.10",
+    "tcgplayer_id": 1516,
+    "price_market": "0.1",
+    "price_median": "0.25"
+  },
+  {
+    "id": "e82a9dd8-653a-4410-b78f-303aaf69d11e",
+    "name": "Personal Incarnation",
+    "collector_number": "31",
+    "type_line": "Creature — Avatar Incarnation",
+    "mana_cost": "{3}{W}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Kev Brockschmidt",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/8/e82a9dd8-653a-4410-b78f-303aaf69d11e.jpg?1559596790",
+    "image_small": "https://cards.scryfall.io/small/front/e/8/e82a9dd8-653a-4410-b78f-303aaf69d11e.jpg?1559596790",
+    "price_usd": "0.98",
+    "tcgplayer_id": 1517,
+    "price_market": "0.98",
+    "price_median": "0.88"
+  },
+  {
+    "id": "b9e9b348-121b-42d3-b7be-d6a83dca9157",
+    "name": "Purelace",
+    "collector_number": "32",
+    "type_line": "Instant",
+    "mana_cost": "{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/9/b9e9b348-121b-42d3-b7be-d6a83dca9157.jpg?1559596977",
+    "image_small": "https://cards.scryfall.io/small/front/b/9/b9e9b348-121b-42d3-b7be-d6a83dca9157.jpg?1559596977",
+    "price_usd": "0.46",
+    "tcgplayer_id": 1534,
+    "price_market": "0.46",
+    "price_median": "0.5"
+  },
+  {
+    "id": "e6a8157a-4c5e-4a08-83e3-c8fafa7a828b",
+    "name": "Red Ward",
+    "collector_number": "33",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/6/e6a8157a-4c5e-4a08-83e3-c8fafa7a828b.jpg?1559596582",
+    "image_small": "https://cards.scryfall.io/small/front/e/6/e6a8157a-4c5e-4a08-83e3-c8fafa7a828b.jpg?1559596582",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1538,
+    "price_market": "0.23",
+    "price_median": "0.3"
+  },
+  {
+    "id": "c159804d-8757-4172-a661-4f9ee068fce1",
+    "name": "Resurrection",
+    "collector_number": "34",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/1/c159804d-8757-4172-a661-4f9ee068fce1.jpg?1559596877",
+    "image_small": "https://cards.scryfall.io/small/front/c/1/c159804d-8757-4172-a661-4f9ee068fce1.jpg?1559596877",
+    "price_usd": "0.27",
+    "tcgplayer_id": 1541,
+    "price_market": "0.27",
+    "price_median": "0.31"
+  },
+  {
+    "id": "04e97dbe-39e1-4bf7-815a-839048463682",
+    "name": "Reverse Damage",
+    "collector_number": "35",
+    "type_line": "Instant",
+    "mana_cost": "{1}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/4/04e97dbe-39e1-4bf7-815a-839048463682.jpg?1559596948",
+    "image_small": "https://cards.scryfall.io/small/front/0/4/04e97dbe-39e1-4bf7-815a-839048463682.jpg?1559596948",
+    "price_usd": "1.75",
+    "tcgplayer_id": 1542,
+    "price_market": "1.75",
+    "price_median": "1.8"
+  },
+  {
+    "id": "e77b2e9b-4db2-4dd2-ae55-bddb22ff87e5",
+    "name": "Reverse Polarity",
+    "collector_number": "36",
+    "type_line": "Instant",
+    "mana_cost": "{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Justin Hampton",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/7/e77b2e9b-4db2-4dd2-ae55-bddb22ff87e5.jpg?1559596583",
+    "image_small": "https://cards.scryfall.io/small/front/e/7/e77b2e9b-4db2-4dd2-ae55-bddb22ff87e5.jpg?1559596583",
+    "price_usd": "0.26",
+    "tcgplayer_id": 1543,
+    "price_market": "0.26",
+    "price_median": "0.3"
+  },
+  {
+    "id": "d85954b4-306e-46d3-b913-240e16acdcac",
+    "name": "Righteousness",
+    "collector_number": "37",
+    "type_line": "Instant",
+    "mana_cost": "{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/8/d85954b4-306e-46d3-b913-240e16acdcac.jpg?1559596933",
+    "image_small": "https://cards.scryfall.io/small/front/d/8/d85954b4-306e-46d3-b913-240e16acdcac.jpg?1559596933",
+    "price_usd": "1.72",
+    "tcgplayer_id": 1544,
+    "price_market": "1.72",
+    "price_median": "1.5"
+  },
+  {
+    "id": "7545fe51-dbe5-4d4c-87a8-86d54734bf33",
+    "name": "Samite Healer",
+    "collector_number": "38",
+    "type_line": "Creature — Human Cleric",
+    "mana_cost": "{1}{W}",
+    "rarity": "common",
+    "colors": [
+      "W"
+    ],
+    "artist": "Tom Wänerstrand",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/5/7545fe51-dbe5-4d4c-87a8-86d54734bf33.jpg?1559596779",
+    "image_small": "https://cards.scryfall.io/small/front/7/5/7545fe51-dbe5-4d4c-87a8-86d54734bf33.jpg?1559596779",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1551,
+    "price_market": "0.19",
+    "price_median": "0.23"
+  },
+  {
+    "id": "ad41b1aa-1482-4d71-990b-031b30685cb1",
+    "name": "Savannah Lions",
+    "collector_number": "39",
+    "type_line": "Creature — Cat",
+    "mana_cost": "{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/d/ad41b1aa-1482-4d71-990b-031b30685cb1.jpg?1559596742",
+    "image_small": "https://cards.scryfall.io/small/front/a/d/ad41b1aa-1482-4d71-990b-031b30685cb1.jpg?1559596742",
+    "price_usd": "4.98",
+    "tcgplayer_id": 1553,
+    "price_market": "4.98",
+    "price_median": "4.99"
+  },
+  {
+    "id": "97fa5f07-46ba-408d-a861-bdb1791cc188",
+    "name": "Serra Angel",
+    "collector_number": "40",
+    "type_line": "Creature — Angel",
+    "mana_cost": "{3}{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/7/97fa5f07-46ba-408d-a861-bdb1791cc188.jpg?1559596922",
+    "image_small": "https://cards.scryfall.io/small/front/9/7/97fa5f07-46ba-408d-a861-bdb1791cc188.jpg?1559596922",
+    "price_usd": "3.96",
+    "tcgplayer_id": 1562,
+    "price_market": "3.96",
+    "price_median": "3.94"
+  },
+  {
+    "id": "057d2410-30d3-4b7a-9dc3-f2512c1cf31c",
+    "name": "Swords to Plowshares",
+    "collector_number": "41",
+    "type_line": "Instant",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/5/057d2410-30d3-4b7a-9dc3-f2512c1cf31c.jpg?1559596796",
+    "image_small": "https://cards.scryfall.io/small/front/0/5/057d2410-30d3-4b7a-9dc3-f2512c1cf31c.jpg?1559596796",
+    "price_usd": "4.14",
+    "tcgplayer_id": 1584,
+    "price_market": "4.14",
+    "price_median": "4.25"
+  },
+  {
+    "id": "d55a1479-6654-4e8e-9a27-44e23753f8be",
+    "name": "Veteran Bodyguard",
+    "collector_number": "42",
+    "type_line": "Creature — Human",
+    "mana_cost": "{3}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/5/d55a1479-6654-4e8e-9a27-44e23753f8be.jpg?1559596838",
+    "image_small": "https://cards.scryfall.io/small/front/d/5/d55a1479-6654-4e8e-9a27-44e23753f8be.jpg?1559596838",
+    "price_usd": "2.69",
+    "tcgplayer_id": 1606,
+    "price_market": "2.69",
+    "price_median": "2.26"
+  },
+  {
+    "id": "4390978b-f647-4720-8caa-00eeecff8471",
+    "name": "Wall of Swords",
+    "collector_number": "43",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{3}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/3/4390978b-f647-4720-8caa-00eeecff8471.jpg?1559597107",
+    "image_small": "https://cards.scryfall.io/small/front/4/3/4390978b-f647-4720-8caa-00eeecff8471.jpg?1559597107",
+    "price_usd": "0.32",
+    "tcgplayer_id": 1615,
+    "price_market": "0.32",
+    "price_median": "0.32"
+  },
+  {
+    "id": "ce573cee-40e0-4740-8b86-538ad8a16bce",
+    "name": "White Knight",
+    "collector_number": "44",
+    "type_line": "Creature — Human Knight",
+    "mana_cost": "{W}{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/e/ce573cee-40e0-4740-8b86-538ad8a16bce.jpg?1559596912",
+    "image_small": "https://cards.scryfall.io/small/front/c/e/ce573cee-40e0-4740-8b86-538ad8a16bce.jpg?1559596912",
+    "price_usd": "0.77",
+    "tcgplayer_id": 1625,
+    "price_market": "0.77",
+    "price_median": "0.74"
+  },
+  {
+    "id": "bb38dcd5-4f12-461c-96a8-867a5b63c5c1",
+    "name": "White Ward",
+    "collector_number": "45",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{W}",
+    "rarity": "uncommon",
+    "colors": [
+      "W"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/b/bb38dcd5-4f12-461c-96a8-867a5b63c5c1.jpg?1559596824",
+    "image_small": "https://cards.scryfall.io/small/front/b/b/bb38dcd5-4f12-461c-96a8-867a5b63c5c1.jpg?1559596824",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1626,
+    "price_market": "0.17",
+    "price_median": "0.28"
+  },
+  {
+    "id": "1c687a4e-a3f9-4d2d-9931-bf60e97f4095",
+    "name": "Wrath of God",
+    "collector_number": "46",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{W}{W}",
+    "rarity": "rare",
+    "colors": [
+      "W"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/c/1c687a4e-a3f9-4d2d-9931-bf60e97f4095.jpg?1559596686",
+    "image_small": "https://cards.scryfall.io/small/front/1/c/1c687a4e-a3f9-4d2d-9931-bf60e97f4095.jpg?1559596686",
+    "price_usd": "12.17",
+    "tcgplayer_id": 1631,
+    "price_market": "12.17",
+    "price_median": "11.56"
+  },
+  {
+    "id": "22905294-4ba6-4567-a21f-f53b8317acda",
+    "name": "Air Elemental",
+    "collector_number": "47",
+    "type_line": "Creature — Elemental",
+    "mana_cost": "{3}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/2/22905294-4ba6-4567-a21f-f53b8317acda.jpg?1559596739",
+    "image_small": "https://cards.scryfall.io/small/front/2/2/22905294-4ba6-4567-a21f-f53b8317acda.jpg?1559596739",
+    "price_usd": "0.29",
+    "tcgplayer_id": 1327,
+    "price_market": "0.29",
+    "price_median": "0.31"
+  },
+  {
+    "id": "9704b5e2-43e8-4a80-a34b-dfcaad9ec0f9",
+    "name": "Animate Artifact",
+    "collector_number": "48",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{3}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/7/9704b5e2-43e8-4a80-a34b-dfcaad9ec0f9.jpg?1559596879",
+    "image_small": "https://cards.scryfall.io/small/front/9/7/9704b5e2-43e8-4a80-a34b-dfcaad9ec0f9.jpg?1559596879",
+    "price_usd": "0.22",
+    "tcgplayer_id": 1330,
+    "price_market": "0.22",
+    "price_median": "0.28"
+  },
+  {
+    "id": "0892ec35-8bab-4fe5-8cc9-a25032d4bc8d",
+    "name": "Blue Elemental Blast",
+    "collector_number": "49",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/8/0892ec35-8bab-4fe5-8cc9-a25032d4bc8d.jpg?1559596787",
+    "image_small": "https://cards.scryfall.io/small/front/0/8/0892ec35-8bab-4fe5-8cc9-a25032d4bc8d.jpg?1559596787",
+    "price_usd": "0.86",
+    "tcgplayer_id": 1349,
+    "price_market": "0.86",
+    "price_median": "1"
+  },
+  {
+    "id": "f77f61a8-0b20-4f2e-8a24-844dc95c3a9e",
+    "name": "Braingeyser",
+    "collector_number": "50",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/7/f77f61a8-0b20-4f2e-8a24-844dc95c3a9e.jpg?1559596868",
+    "image_small": "https://cards.scryfall.io/small/front/f/7/f77f61a8-0b20-4f2e-8a24-844dc95c3a9e.jpg?1559596868",
+    "price_usd": "16.58",
+    "tcgplayer_id": 1353,
+    "price_market": "16.58",
+    "price_median": "17"
+  },
+  {
+    "id": "b59fde1a-8d41-4f09-a4a1-4a15aaa704c7",
+    "name": "Clone",
+    "collector_number": "51",
+    "type_line": "Creature — Shapeshifter",
+    "mana_cost": "{3}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Julie Baroh",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/5/b59fde1a-8d41-4f09-a4a1-4a15aaa704c7.jpg?1559596882",
+    "image_small": "https://cards.scryfall.io/small/front/b/5/b59fde1a-8d41-4f09-a4a1-4a15aaa704c7.jpg?1559596882",
+    "price_usd": "1.16",
+    "tcgplayer_id": 1366,
+    "price_market": "1.16",
+    "price_median": "1.15"
+  },
+  {
+    "id": "d8ab7fb5-9903-4723-a4a0-d142ef3aae8e",
+    "name": "Control Magic",
+    "collector_number": "52",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{2}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/8/d8ab7fb5-9903-4723-a4a0-d142ef3aae8e.jpg?1559596856",
+    "image_small": "https://cards.scryfall.io/small/front/d/8/d8ab7fb5-9903-4723-a4a0-d142ef3aae8e.jpg?1559596856",
+    "price_usd": "0.70",
+    "tcgplayer_id": 1370,
+    "price_market": "0.7",
+    "price_median": "0.76"
+  },
+  {
+    "id": "0d42f473-3e3f-4441-b7ee-6819a3a8f52e",
+    "name": "Copy Artifact",
+    "collector_number": "53",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/d/0d42f473-3e3f-4441-b7ee-6819a3a8f52e.jpg?1559597170",
+    "image_small": "https://cards.scryfall.io/small/front/0/d/0d42f473-3e3f-4441-b7ee-6819a3a8f52e.jpg?1559597170",
+    "price_usd": "56.55",
+    "tcgplayer_id": 1372,
+    "price_market": "56.55",
+    "price_median": "67.95"
+  },
+  {
+    "id": "0a1b4e2e-5459-4fae-81d9-1e882647daac",
+    "name": "Counterspell",
+    "collector_number": "54",
+    "type_line": "Instant",
+    "mana_cost": "{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/a/0a1b4e2e-5459-4fae-81d9-1e882647daac.jpg?1559597169",
+    "image_small": "https://cards.scryfall.io/small/front/0/a/0a1b4e2e-5459-4fae-81d9-1e882647daac.jpg?1559597169",
+    "price_usd": "5.04",
+    "tcgplayer_id": 1373,
+    "price_market": "5.04",
+    "price_median": "4.35"
+  },
+  {
+    "id": "131b80ad-1ffe-449d-a595-74c65f6605cd",
+    "name": "Creature Bond",
+    "collector_number": "55",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/3/131b80ad-1ffe-449d-a595-74c65f6605cd.jpg?1559596957",
+    "image_small": "https://cards.scryfall.io/small/front/1/3/131b80ad-1ffe-449d-a595-74c65f6605cd.jpg?1559596957",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1375,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "4a8ffad1-9cb0-4ba6-8ae9-00c3b74b9b3f",
+    "name": "Drain Power",
+    "collector_number": "56",
+    "type_line": "Sorcery",
+    "mana_cost": "{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/a/4a8ffad1-9cb0-4ba6-8ae9-00c3b74b9b3f.jpg?1559596676",
+    "image_small": "https://cards.scryfall.io/small/front/4/a/4a8ffad1-9cb0-4ba6-8ae9-00c3b74b9b3f.jpg?1559596676",
+    "price_usd": "2.73",
+    "tcgplayer_id": 1397,
+    "price_market": "2.73",
+    "price_median": "2.38"
+  },
+  {
+    "id": "9c4e6d03-68d5-4275-a76c-078d0a9a2b54",
+    "name": "Energy Flux",
+    "collector_number": "57",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Kaja Foglio",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/c/9c4e6d03-68d5-4275-a76c-078d0a9a2b54.jpg?1559596936",
+    "image_small": "https://cards.scryfall.io/small/front/9/c/9c4e6d03-68d5-4275-a76c-078d0a9a2b54.jpg?1559596936",
+    "price_usd": "0.31",
+    "tcgplayer_id": 1407,
+    "price_market": "0.31",
+    "price_median": "0.36"
+  },
+  {
+    "id": "dea6644f-cd2d-4d2b-b66e-b6f8285d2fe8",
+    "name": "Feedback",
+    "collector_number": "58",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{2}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/e/dea6644f-cd2d-4d2b-b66e-b6f8285d2fe8.jpg?1559596755",
+    "image_small": "https://cards.scryfall.io/small/front/d/e/dea6644f-cd2d-4d2b-b66e-b6f8285d2fe8.jpg?1559596755",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1414,
+    "price_market": "0.21",
+    "price_median": "0.25"
+  },
+  {
+    "id": "133aaa10-610b-41be-9327-591f517a4baa",
+    "name": "Flight",
+    "collector_number": "59",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/3/133aaa10-610b-41be-9327-591f517a4baa.jpg?1559596814",
+    "image_small": "https://cards.scryfall.io/small/front/1/3/133aaa10-610b-41be-9327-591f517a4baa.jpg?1559596814",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1419,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "b871e9a7-ba3a-4891-adc6-68a11a4e4aa6",
+    "name": "Hurkyl's Recall",
+    "collector_number": "60",
+    "type_line": "Instant",
+    "mana_cost": "{1}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "NéNé Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/8/b871e9a7-ba3a-4891-adc6-68a11a4e4aa6.jpg?1559597124",
+    "image_small": "https://cards.scryfall.io/small/front/b/8/b871e9a7-ba3a-4891-adc6-68a11a4e4aa6.jpg?1559597124",
+    "price_usd": "1.94",
+    "tcgplayer_id": 1448,
+    "price_market": "1.94",
+    "price_median": "1.94"
+  },
+  {
+    "id": "11db42ba-f756-439c-bdd3-26e9cd4870a4",
+    "name": "Island Fish Jasconius",
+    "collector_number": "61",
+    "type_line": "Creature — Fish",
+    "mana_cost": "{4}{U}{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/1/11db42ba-f756-439c-bdd3-26e9cd4870a4.jpg?1559596714",
+    "image_small": "https://cards.scryfall.io/small/front/1/1/11db42ba-f756-439c-bdd3-26e9cd4870a4.jpg?1559596714",
+    "price_usd": "0.93",
+    "tcgplayer_id": 1458,
+    "price_market": "0.93",
+    "price_median": "0.75"
+  },
+  {
+    "id": "839b7b38-cb95-4406-af50-4d97884e2489",
+    "name": "Jump",
+    "collector_number": "62",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/3/839b7b38-cb95-4406-af50-4d97884e2489.jpg?1559596658",
+    "image_small": "https://cards.scryfall.io/small/front/8/3/839b7b38-cb95-4406-af50-4d97884e2489.jpg?1559596658",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1467,
+    "price_market": "0.17",
+    "price_median": "0.24"
+  },
+  {
+    "id": "f0049925-d95d-40ed-ba02-7f7fbe4cf6b5",
+    "name": "Lifetap",
+    "collector_number": "63",
+    "type_line": "Enchantment",
+    "mana_cost": "{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/0/f0049925-d95d-40ed-ba02-7f7fbe4cf6b5.jpg?1559596962",
+    "image_small": "https://cards.scryfall.io/small/front/f/0/f0049925-d95d-40ed-ba02-7f7fbe4cf6b5.jpg?1559596962",
+    "price_usd": "0.29",
+    "tcgplayer_id": 1478,
+    "price_market": "0.29",
+    "price_median": "0.3"
+  },
+  {
+    "id": "45066539-6bc2-467f-acfb-00938ba837ef",
+    "name": "Lord of Atlantis",
+    "collector_number": "64",
+    "type_line": "Creature — Merfolk",
+    "mana_cost": "{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/5/45066539-6bc2-467f-acfb-00938ba837ef.jpg?1559596662",
+    "image_small": "https://cards.scryfall.io/small/front/4/5/45066539-6bc2-467f-acfb-00938ba837ef.jpg?1559596662",
+    "price_usd": "5.87",
+    "tcgplayer_id": 1484,
+    "price_market": "5.87",
+    "price_median": "6.66"
+  },
+  {
+    "id": "61fb9f2d-be6b-4073-91d8-68ca58046da9",
+    "name": "Magical Hack",
+    "collector_number": "65",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Julie Baroh",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/1/61fb9f2d-be6b-4073-91d8-68ca58046da9.jpg?1559596919",
+    "image_small": "https://cards.scryfall.io/small/front/6/1/61fb9f2d-be6b-4073-91d8-68ca58046da9.jpg?1559596919",
+    "price_usd": "3.64",
+    "tcgplayer_id": 1487,
+    "price_market": "3.64",
+    "price_median": "3.5"
+  },
+  {
+    "id": "4765276e-ad80-4734-b485-36eebf1b6ae1",
+    "name": "Mahamoti Djinn",
+    "collector_number": "66",
+    "type_line": "Creature — Djinn",
+    "mana_cost": "{4}{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/4765276e-ad80-4734-b485-36eebf1b6ae1.jpg?1559596799",
+    "image_small": "https://cards.scryfall.io/small/front/4/7/4765276e-ad80-4734-b485-36eebf1b6ae1.jpg?1559596799",
+    "price_usd": "3.61",
+    "tcgplayer_id": 1489,
+    "price_market": "3.61",
+    "price_median": "2.45"
+  },
+  {
+    "id": "0fec5898-f288-4fb6-a2d3-2ea6d20594bf",
+    "name": "Mana Short",
+    "collector_number": "67",
+    "type_line": "Instant",
+    "mana_cost": "{2}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/f/0fec5898-f288-4fb6-a2d3-2ea6d20594bf.jpg?1559596595",
+    "image_small": "https://cards.scryfall.io/small/front/0/f/0fec5898-f288-4fb6-a2d3-2ea6d20594bf.jpg?1559596595",
+    "price_usd": "3.72",
+    "tcgplayer_id": 1491,
+    "price_market": "3.72",
+    "price_median": "3"
+  },
+  {
+    "id": "2fad0078-f3cb-48a4-9ed4-b658e983314f",
+    "name": "Merfolk of the Pearl Trident",
+    "collector_number": "68",
+    "type_line": "Creature — Merfolk",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/f/2fad0078-f3cb-48a4-9ed4-b658e983314f.jpg?1559596767",
+    "image_small": "https://cards.scryfall.io/small/front/2/f/2fad0078-f3cb-48a4-9ed4-b658e983314f.jpg?1559596767",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1495,
+    "price_market": "0.19",
+    "price_median": "0.25"
+  },
+  {
+    "id": "7954f128-7f3d-4c5e-adea-6ff452186ba4",
+    "name": "Phantasmal Forces",
+    "collector_number": "69",
+    "type_line": "Creature — Illusion",
+    "mana_cost": "{3}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/9/7954f128-7f3d-4c5e-adea-6ff452186ba4.jpg?1559597149",
+    "image_small": "https://cards.scryfall.io/small/front/7/9/7954f128-7f3d-4c5e-adea-6ff452186ba4.jpg?1559597149",
+    "price_usd": "0.29",
+    "tcgplayer_id": 1519,
+    "price_market": "0.29",
+    "price_median": "0.3"
+  },
+  {
+    "id": "b8c578c4-a67f-45ac-aa13-7fba2a5f5f3f",
+    "name": "Phantasmal Terrain",
+    "collector_number": "70",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{U}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/8/b8c578c4-a67f-45ac-aa13-7fba2a5f5f3f.jpg?1559597147",
+    "image_small": "https://cards.scryfall.io/small/front/b/8/b8c578c4-a67f-45ac-aa13-7fba2a5f5f3f.jpg?1559597147",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1520,
+    "price_market": "0.14",
+    "price_median": "0.24"
+  },
+  {
+    "id": "75cb719c-7b7a-449b-bb1e-372a0e20c7f0",
+    "name": "Phantom Monster",
+    "collector_number": "71",
+    "type_line": "Creature — Illusion",
+    "mana_cost": "{3}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/5/75cb719c-7b7a-449b-bb1e-372a0e20c7f0.jpg?1759988645",
+    "image_small": "https://cards.scryfall.io/small/front/7/5/75cb719c-7b7a-449b-bb1e-372a0e20c7f0.jpg?1759988645",
+    "price_usd": "0.31",
+    "tcgplayer_id": 1521,
+    "price_market": "0.31",
+    "price_median": "0.32"
+  },
+  {
+    "id": "06e11710-fc99-4d86-9ca5-9d8c7ab03b24",
+    "name": "Pirate Ship",
+    "collector_number": "72",
+    "type_line": "Creature — Human Pirate",
+    "mana_cost": "{4}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Tom Wänerstrand",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/6/06e11710-fc99-4d86-9ca5-9d8c7ab03b24.jpg?1559596976",
+    "image_small": "https://cards.scryfall.io/small/front/0/6/06e11710-fc99-4d86-9ca5-9d8c7ab03b24.jpg?1559596976",
+    "price_usd": "1.08",
+    "tcgplayer_id": 1522,
+    "price_market": "1.08",
+    "price_median": "1"
+  },
+  {
+    "id": "f6623e8b-4f4c-49c8-ad48-257b8695c4fe",
+    "name": "Power Leak",
+    "collector_number": "73",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Drew Tucker",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/6/f6623e8b-4f4c-49c8-ad48-257b8695c4fe.jpg?1559597145",
+    "image_small": "https://cards.scryfall.io/small/front/f/6/f6623e8b-4f4c-49c8-ad48-257b8695c4fe.jpg?1559597145",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1528,
+    "price_market": "0.21",
+    "price_median": "0.24"
+  },
+  {
+    "id": "1134aa48-b288-44ab-9d3a-efee12cb98a4",
+    "name": "Power Sink",
+    "collector_number": "74",
+    "type_line": "Instant",
+    "mana_cost": "{X}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/1/1134aa48-b288-44ab-9d3a-efee12cb98a4.jpg?1559597144",
+    "image_small": "https://cards.scryfall.io/small/front/1/1/1134aa48-b288-44ab-9d3a-efee12cb98a4.jpg?1559597144",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1529,
+    "price_market": "0.23",
+    "price_median": "0.25"
+  },
+  {
+    "id": "20f1411b-a5ad-4d49-915b-ad8a21d51342",
+    "name": "Prodigal Sorcerer",
+    "collector_number": "75",
+    "type_line": "Creature — Human Wizard Sorcerer",
+    "mana_cost": "{2}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/0/20f1411b-a5ad-4d49-915b-ad8a21d51342.jpg?1621595963",
+    "image_small": "https://cards.scryfall.io/small/front/2/0/20f1411b-a5ad-4d49-915b-ad8a21d51342.jpg?1621595963",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1532,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "47560f18-84fb-4d34-83cf-70e0ed8bf7ff",
+    "name": "Psychic Venom",
+    "collector_number": "76",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Brian Snõddy",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/47560f18-84fb-4d34-83cf-70e0ed8bf7ff.jpg?1559596655",
+    "image_small": "https://cards.scryfall.io/small/front/4/7/47560f18-84fb-4d34-83cf-70e0ed8bf7ff.jpg?1559596655",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1533,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "b4ba9d8c-686d-4f93-8001-fca27899651e",
+    "name": "Reconstruction",
+    "collector_number": "77",
+    "type_line": "Sorcery",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/4/b4ba9d8c-686d-4f93-8001-fca27899651e.jpg?1559596581",
+    "image_small": "https://cards.scryfall.io/small/front/b/4/b4ba9d8c-686d-4f93-8001-fca27899651e.jpg?1559596581",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1536,
+    "price_market": "0.21",
+    "price_median": "0.25"
+  },
+  {
+    "id": "4a05cbae-a0a1-452b-a9d1-a29478e705cd",
+    "name": "Sea Serpent",
+    "collector_number": "78",
+    "type_line": "Creature — Serpent",
+    "mana_cost": "{5}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/a/4a05cbae-a0a1-452b-a9d1-a29478e705cd.jpg?1559596736",
+    "image_small": "https://cards.scryfall.io/small/front/4/a/4a05cbae-a0a1-452b-a9d1-a29478e705cd.jpg?1559596736",
+    "price_usd": "0.13",
+    "tcgplayer_id": 1558,
+    "price_market": "0.13",
+    "price_median": "0.25"
+  },
+  {
+    "id": "35415199-0f1d-4398-a48f-f78697a51105",
+    "name": "Serendib Efreet",
+    "collector_number": "79",
+    "type_line": "Creature — Efreet",
+    "mana_cost": "{2}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/5/35415199-0f1d-4398-a48f-f78697a51105.jpg?1729185182",
+    "image_small": "https://cards.scryfall.io/small/front/3/5/35415199-0f1d-4398-a48f-f78697a51105.jpg?1729185182",
+    "price_usd": "4.61",
+    "tcgplayer_id": 1561,
+    "price_market": "4.61",
+    "price_median": "4.5"
+  },
+  {
+    "id": "e84406bc-6db7-4672-be8c-307985213cd6",
+    "name": "Siren's Call",
+    "collector_number": "80",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/8/e84406bc-6db7-4672-be8c-307985213cd6.jpg?1559596414",
+    "image_small": "https://cards.scryfall.io/small/front/e/8/e84406bc-6db7-4672-be8c-307985213cd6.jpg?1559596414",
+    "price_usd": "0.33",
+    "tcgplayer_id": 1568,
+    "price_market": "0.33",
+    "price_median": "0.32"
+  },
+  {
+    "id": "563194a8-e7b2-4edb-ba02-f84cfd206771",
+    "name": "Sleight of Mind",
+    "collector_number": "81",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/563194a8-e7b2-4edb-ba02-f84cfd206771.jpg?1559596766",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/563194a8-e7b2-4edb-ba02-f84cfd206771.jpg?1559596766",
+    "price_usd": "1.09",
+    "tcgplayer_id": 1569,
+    "price_market": "1.09",
+    "price_median": "0.75"
+  },
+  {
+    "id": "20fc852a-77b0-48a6-8343-6cf890da9adb",
+    "name": "Spell Blast",
+    "collector_number": "82",
+    "type_line": "Instant",
+    "mana_cost": "{X}{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Brian Snõddy",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/0/20fc852a-77b0-48a6-8343-6cf890da9adb.jpg?1559596893",
+    "image_small": "https://cards.scryfall.io/small/front/2/0/20fc852a-77b0-48a6-8343-6cf890da9adb.jpg?1559596893",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1574,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "fe4bf26c-cd9c-40e3-8a73-2f17f9a1d0e4",
+    "name": "Stasis",
+    "collector_number": "83",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Fay Jones",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/e/fe4bf26c-cd9c-40e3-8a73-2f17f9a1d0e4.jpg?1559596722",
+    "image_small": "https://cards.scryfall.io/small/front/f/e/fe4bf26c-cd9c-40e3-8a73-2f17f9a1d0e4.jpg?1559596722",
+    "price_usd": "7.01",
+    "tcgplayer_id": 1575,
+    "price_market": "7.01",
+    "price_median": "8.79"
+  },
+  {
+    "id": "df32e7de-dd96-454e-a229-31912d9600e7",
+    "name": "Steal Artifact",
+    "collector_number": "84",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{2}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/f/df32e7de-dd96-454e-a229-31912d9600e7.jpg?1559597097",
+    "image_small": "https://cards.scryfall.io/small/front/d/f/df32e7de-dd96-454e-a229-31912d9600e7.jpg?1559597097",
+    "price_usd": "0.29",
+    "tcgplayer_id": 1576,
+    "price_market": "0.29",
+    "price_median": "0.33"
+  },
+  {
+    "id": "851a8475-30d1-466f-b0be-6f1a0f2772b5",
+    "name": "Thoughtlace",
+    "collector_number": "85",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/5/851a8475-30d1-466f-b0be-6f1a0f2772b5.jpg?1559596845",
+    "image_small": "https://cards.scryfall.io/small/front/8/5/851a8475-30d1-466f-b0be-6f1a0f2772b5.jpg?1559596845",
+    "price_usd": "0.53",
+    "tcgplayer_id": 1590,
+    "price_market": "0.53",
+    "price_median": "0.53"
+  },
+  {
+    "id": "fc24e53b-5074-4791-9277-46e14a70db3a",
+    "name": "Unstable Mutation",
+    "collector_number": "86",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/c/fc24e53b-5074-4791-9277-46e14a70db3a.jpg?1559596839",
+    "image_small": "https://cards.scryfall.io/small/front/f/c/fc24e53b-5074-4791-9277-46e14a70db3a.jpg?1559596839",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1601,
+    "price_market": "0.14",
+    "price_median": "0.25"
+  },
+  {
+    "id": "e7bf32d8-dad7-4192-8cb6-ae75d8204ba3",
+    "name": "Unsummon",
+    "collector_number": "87",
+    "type_line": "Instant",
+    "mana_cost": "{U}",
+    "rarity": "common",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/7/e7bf32d8-dad7-4192-8cb6-ae75d8204ba3.jpg?1559597113",
+    "image_small": "https://cards.scryfall.io/small/front/e/7/e7bf32d8-dad7-4192-8cb6-ae75d8204ba3.jpg?1559597113",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1602,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "6d528ffd-89b3-44ee-a370-e4b53d6604be",
+    "name": "Vesuvan Doppelganger",
+    "collector_number": "88",
+    "type_line": "Creature — Shapeshifter",
+    "mana_cost": "{3}{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/d/6d528ffd-89b3-44ee-a370-e4b53d6604be.jpg?1559597111",
+    "image_small": "https://cards.scryfall.io/small/front/6/d/6d528ffd-89b3-44ee-a370-e4b53d6604be.jpg?1559597111",
+    "price_usd": "21.19",
+    "tcgplayer_id": 1605,
+    "price_market": "21.19",
+    "price_median": "21.28"
+  },
+  {
+    "id": "6663f9e2-f752-42cf-97a0-01a14ca0aa1b",
+    "name": "Volcanic Eruption",
+    "collector_number": "89",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{U}{U}{U}",
+    "rarity": "rare",
+    "colors": [
+      "U"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/6/6663f9e2-f752-42cf-97a0-01a14ca0aa1b.jpg?1559596663",
+    "image_small": "https://cards.scryfall.io/small/front/6/6/6663f9e2-f752-42cf-97a0-01a14ca0aa1b.jpg?1559596663",
+    "price_usd": "0.72",
+    "tcgplayer_id": 1607,
+    "price_market": "0.72",
+    "price_median": "0.71"
+  },
+  {
+    "id": "beb3874f-b3dc-41ca-becc-4dcbb0549b33",
+    "name": "Wall of Air",
+    "collector_number": "90",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{1}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/e/beb3874f-b3dc-41ca-becc-4dcbb0549b33.jpg?1559597108",
+    "image_small": "https://cards.scryfall.io/small/front/b/e/beb3874f-b3dc-41ca-becc-4dcbb0549b33.jpg?1559597108",
+    "price_usd": "0.34",
+    "tcgplayer_id": 1609,
+    "price_market": "0.34",
+    "price_median": "0.35"
+  },
+  {
+    "id": "14363981-7c27-49d4-91d6-e2a51b679784",
+    "name": "Wall of Water",
+    "collector_number": "91",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{1}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/4/14363981-7c27-49d4-91d6-e2a51b679784.jpg?1559596830",
+    "image_small": "https://cards.scryfall.io/small/front/1/4/14363981-7c27-49d4-91d6-e2a51b679784.jpg?1559596830",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1616,
+    "price_market": "0.23",
+    "price_median": "0.3"
+  },
+  {
+    "id": "55368e1d-2573-4779-ad7c-027071380447",
+    "name": "Water Elemental",
+    "collector_number": "92",
+    "type_line": "Creature — Elemental",
+    "mana_cost": "{3}{U}{U}",
+    "rarity": "uncommon",
+    "colors": [
+      "U"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/5/55368e1d-2573-4779-ad7c-027071380447.jpg?1559597104",
+    "image_small": "https://cards.scryfall.io/small/front/5/5/55368e1d-2573-4779-ad7c-027071380447.jpg?1559597104",
+    "price_usd": "0.26",
+    "tcgplayer_id": 1621,
+    "price_market": "0.26",
+    "price_median": "0.3"
+  },
+  {
+    "id": "eed73f84-ad08-44f8-a4fe-cd324ec1da92",
+    "name": "Animate Dead",
+    "collector_number": "93",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/e/eed73f84-ad08-44f8-a4fe-cd324ec1da92.jpg?1559597176",
+    "image_small": "https://cards.scryfall.io/small/front/e/e/eed73f84-ad08-44f8-a4fe-cd324ec1da92.jpg?1559597176",
+    "price_usd": "8.01",
+    "tcgplayer_id": 1331,
+    "price_market": "7.54",
+    "price_median": "7.49"
+  },
+  {
+    "id": "9cb767eb-2161-4068-be80-c3cf68945393",
+    "name": "Bad Moon",
+    "collector_number": "94",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/c/9cb767eb-2161-4068-be80-c3cf68945393.jpg?1559596797",
+    "image_small": "https://cards.scryfall.io/small/front/9/c/9cb767eb-2161-4068-be80-c3cf68945393.jpg?1559596797",
+    "price_usd": "9.95",
+    "tcgplayer_id": 1338,
+    "price_market": "9.95",
+    "price_median": "9.62"
+  },
+  {
+    "id": "eaa55b3c-acf4-4d2a-9f32-c7fce6672f3d",
+    "name": "Black Knight",
+    "collector_number": "95",
+    "type_line": "Creature — Human Knight",
+    "mana_cost": "{B}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/a/eaa55b3c-acf4-4d2a-9f32-c7fce6672f3d.jpg?1559596946",
+    "image_small": "https://cards.scryfall.io/small/front/e/a/eaa55b3c-acf4-4d2a-9f32-c7fce6672f3d.jpg?1559596946",
+    "price_usd": "1.72",
+    "tcgplayer_id": 1345,
+    "price_market": "1.72",
+    "price_median": "1.27"
+  },
+  {
+    "id": "1173349b-beb9-44c8-aeb2-534ecf54fea0",
+    "name": "Bog Wraith",
+    "collector_number": "96",
+    "type_line": "Creature — Wraith",
+    "mana_cost": "{3}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/1/1173349b-beb9-44c8-aeb2-534ecf54fea0.jpg?1559596897",
+    "image_small": "https://cards.scryfall.io/small/front/1/1/1173349b-beb9-44c8-aeb2-534ecf54fea0.jpg?1559596897",
+    "price_usd": "0.27",
+    "tcgplayer_id": 1351,
+    "price_market": "0.27",
+    "price_median": "0.29"
+  },
+  {
+    "id": "0f1a0d5c-bf25-49ff-8af0-cdb2e00c50d9",
+    "name": "Contract from Below",
+    "collector_number": "97",
+    "type_line": "Sorcery",
+    "mana_cost": "{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/f/0f1a0d5c-bf25-49ff-8af0-cdb2e00c50d9.jpg?1559596858",
+    "image_small": "https://cards.scryfall.io/small/front/0/f/0f1a0d5c-bf25-49ff-8af0-cdb2e00c50d9.jpg?1559596858",
+    "price_usd": "2.54",
+    "tcgplayer_id": 1369,
+    "price_market": "2.54",
+    "price_median": "2.59"
+  },
+  {
+    "id": "9640785c-be0d-4502-9995-f93ac00f1b2f",
+    "name": "Cursed Land",
+    "collector_number": "98",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{2}{B}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/6/9640785c-be0d-4502-9995-f93ac00f1b2f.jpg?1559597167",
+    "image_small": "https://cards.scryfall.io/small/front/9/6/9640785c-be0d-4502-9995-f93ac00f1b2f.jpg?1559597167",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1379,
+    "price_market": "0.28",
+    "price_median": "0.3"
+  },
+  {
+    "id": "48cb9467-657e-453f-afc8-1bf7121570ad",
+    "name": "Dark Ritual",
+    "collector_number": "99",
+    "type_line": "Instant",
+    "mana_cost": "{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/8/48cb9467-657e-453f-afc8-1bf7121570ad.jpg?1559596684",
+    "image_small": "https://cards.scryfall.io/small/front/4/8/48cb9467-657e-453f-afc8-1bf7121570ad.jpg?1559596684",
+    "price_usd": "3.82",
+    "tcgplayer_id": 1381,
+    "price_market": "3.83",
+    "price_median": "3.33"
+  },
+  {
+    "id": "f550c4e2-a9ba-4bd6-9ba6-94fa5b02e27a",
+    "name": "Darkpact",
+    "collector_number": "100",
+    "type_line": "Sorcery",
+    "mana_cost": "{B}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/5/f550c4e2-a9ba-4bd6-9ba6-94fa5b02e27a.jpg?1559596853",
+    "image_small": "https://cards.scryfall.io/small/front/f/5/f550c4e2-a9ba-4bd6-9ba6-94fa5b02e27a.jpg?1559596853",
+    "price_usd": "1.08",
+    "tcgplayer_id": 1382,
+    "price_market": "1.08",
+    "price_median": "1.13"
+  },
+  {
+    "id": "e42c32a2-9bbb-4701-85af-eb9686edce73",
+    "name": "Deathgrip",
+    "collector_number": "101",
+    "type_line": "Enchantment",
+    "mana_cost": "{B}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/4/e42c32a2-9bbb-4701-85af-eb9686edce73.jpg?1559596852",
+    "image_small": "https://cards.scryfall.io/small/front/e/4/e42c32a2-9bbb-4701-85af-eb9686edce73.jpg?1559596852",
+    "price_usd": "0.48",
+    "tcgplayer_id": 1384,
+    "price_market": "0.48",
+    "price_median": "0.45"
+  },
+  {
+    "id": "e4265106-78a8-4a10-a2fb-6440a8a7f5ce",
+    "name": "Deathlace",
+    "collector_number": "102",
+    "type_line": "Instant",
+    "mana_cost": "{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/4/e4265106-78a8-4a10-a2fb-6440a8a7f5ce.jpg?1559597161",
+    "image_small": "https://cards.scryfall.io/small/front/e/4/e4265106-78a8-4a10-a2fb-6440a8a7f5ce.jpg?1559597161",
+    "price_usd": "0.59",
+    "tcgplayer_id": 1385,
+    "price_market": "0.59",
+    "price_median": "0.59"
+  },
+  {
+    "id": "6ece570a-f480-40fd-a2b1-26a89c44e732",
+    "name": "Demonic Attorney",
+    "collector_number": "103",
+    "type_line": "Sorcery",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/e/6ece570a-f480-40fd-a2b1-26a89c44e732.jpg?1559597163",
+    "image_small": "https://cards.scryfall.io/small/front/6/e/6ece570a-f480-40fd-a2b1-26a89c44e732.jpg?1559597163",
+    "price_usd": "1.32",
+    "tcgplayer_id": 1386,
+    "price_market": "1.32",
+    "price_median": "1.43"
+  },
+  {
+    "id": "b4cfeebf-d893-4fdf-b3fc-f1f9528f4d04",
+    "name": "Demonic Hordes",
+    "collector_number": "104",
+    "type_line": "Creature — Demon",
+    "mana_cost": "{3}{B}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/4/b4cfeebf-d893-4fdf-b3fc-f1f9528f4d04.jpg?1559596785",
+    "image_small": "https://cards.scryfall.io/small/front/b/4/b4cfeebf-d893-4fdf-b3fc-f1f9528f4d04.jpg?1559596785",
+    "price_usd": "7.48",
+    "tcgplayer_id": 1387,
+    "price_market": "7.48",
+    "price_median": "7.2"
+  },
+  {
+    "id": "881e5922-b464-4a1a-b074-664bd6c0a7f6",
+    "name": "Demonic Tutor",
+    "collector_number": "105",
+    "type_line": "Sorcery",
+    "mana_cost": "{1}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+    "image_small": "https://cards.scryfall.io/small/front/8/8/881e5922-b464-4a1a-b074-664bd6c0a7f6.jpg?1559596930",
+    "price_usd": "56.91",
+    "tcgplayer_id": 1388,
+    "price_market": "56.63",
+    "price_median": "56.12"
+  },
+  {
+    "id": "d89c1d2f-87a1-4463-af21-b837da3e7d74",
+    "name": "Drain Life",
+    "collector_number": "106",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{1}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/8/d89c1d2f-87a1-4463-af21-b837da3e7d74.jpg?1559597141",
+    "image_small": "https://cards.scryfall.io/small/front/d/8/d89c1d2f-87a1-4463-af21-b837da3e7d74.jpg?1559597141",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1396,
+    "price_market": "0.17",
+    "price_median": "0.25"
+  },
+  {
+    "id": "59145073-2cfd-4153-a6d8-47ad42e739c3",
+    "name": "Drudge Skeletons",
+    "collector_number": "107",
+    "type_line": "Creature — Skeleton",
+    "mana_cost": "{1}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/9/59145073-2cfd-4153-a6d8-47ad42e739c3.jpg?1559597139",
+    "image_small": "https://cards.scryfall.io/small/front/5/9/59145073-2cfd-4153-a6d8-47ad42e739c3.jpg?1559597139",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1398,
+    "price_market": "0.17",
+    "price_median": "0.24"
+  },
+  {
+    "id": "c3591170-645f-4645-bc39-b90b7b6ddac7",
+    "name": "El-Hajjâj",
+    "collector_number": "108",
+    "type_line": "Creature — Human Wizard",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/3/c3591170-645f-4645-bc39-b90b7b6ddac7.jpg?1559597137",
+    "image_small": "https://cards.scryfall.io/small/front/c/3/c3591170-645f-4645-bc39-b90b7b6ddac7.jpg?1559597137",
+    "price_usd": "1.18",
+    "tcgplayer_id": 1405,
+    "price_market": "1.18",
+    "price_median": "0.9"
+  },
+  {
+    "id": "02104733-fb20-43bb-8370-1993528abbdf",
+    "name": "Erg Raiders",
+    "collector_number": "109",
+    "type_line": "Creature — Human Warrior",
+    "mana_cost": "{1}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/2/02104733-fb20-43bb-8370-1993528abbdf.jpg?1559594459",
+    "image_small": "https://cards.scryfall.io/small/front/0/2/02104733-fb20-43bb-8370-1993528abbdf.jpg?1559594459",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1408,
+    "price_market": "0.14",
+    "price_median": "0.24"
+  },
+  {
+    "id": "d84730b2-53e4-45eb-9ac7-4557a59be5d4",
+    "name": "Evil Presence",
+    "collector_number": "110",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/8/d84730b2-53e4-45eb-9ac7-4557a59be5d4.jpg?1559596707",
+    "image_small": "https://cards.scryfall.io/small/front/d/8/d84730b2-53e4-45eb-9ac7-4557a59be5d4.jpg?1559596707",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1409,
+    "price_market": "0.28",
+    "price_median": "0.29"
+  },
+  {
+    "id": "6c6b2afc-d4f5-47fb-abda-fc3de8bdacaa",
+    "name": "Fear",
+    "collector_number": "111",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6c6b2afc-d4f5-47fb-abda-fc3de8bdacaa.jpg?1559597133",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6c6b2afc-d4f5-47fb-abda-fc3de8bdacaa.jpg?1559597133",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1413,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "6cba931e-94b5-4fcc-8d5f-eb60664baf31",
+    "name": "Frozen Shade",
+    "collector_number": "112",
+    "type_line": "Creature — Shade",
+    "mana_cost": "{2}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6cba931e-94b5-4fcc-8d5f-eb60664baf31.jpg?1559597128",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6cba931e-94b5-4fcc-8d5f-eb60664baf31.jpg?1559597128",
+    "price_usd": "0.13",
+    "tcgplayer_id": 1427,
+    "price_market": "0.13",
+    "price_median": "0.25"
+  },
+  {
+    "id": "fb2ce26e-8c53-4687-a80c-ba6a1c76299a",
+    "name": "Gloom",
+    "collector_number": "113",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/b/fb2ce26e-8c53-4687-a80c-ba6a1c76299a.jpg?1559596811",
+    "image_small": "https://cards.scryfall.io/small/front/f/b/fb2ce26e-8c53-4687-a80c-ba6a1c76299a.jpg?1559596811",
+    "price_usd": "0.34",
+    "tcgplayer_id": 1433,
+    "price_market": "0.34",
+    "price_median": "0.4"
+  },
+  {
+    "id": "d954e8a7-6b22-4f53-9435-ff1f7782a3d4",
+    "name": "Howl from Beyond",
+    "collector_number": "114",
+    "type_line": "Instant",
+    "mana_cost": "{X}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/9/d954e8a7-6b22-4f53-9435-ff1f7782a3d4.jpg?1559597125",
+    "image_small": "https://cards.scryfall.io/small/front/d/9/d954e8a7-6b22-4f53-9435-ff1f7782a3d4.jpg?1559597125",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1446,
+    "price_market": "0.16",
+    "price_median": "0.25"
+  },
+  {
+    "id": "2c8bd2bc-f48d-43c4-b2aa-5a0905656e90",
+    "name": "Hypnotic Specter",
+    "collector_number": "115",
+    "type_line": "Creature — Specter",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/c/2c8bd2bc-f48d-43c4-b2aa-5a0905656e90.jpg?1559596617",
+    "image_small": "https://cards.scryfall.io/small/front/2/c/2c8bd2bc-f48d-43c4-b2aa-5a0905656e90.jpg?1559596617",
+    "price_usd": "2.24",
+    "tcgplayer_id": 1451,
+    "price_market": "2.24",
+    "price_median": "2.54"
+  },
+  {
+    "id": "5b61cb02-7eb7-4d85-8ced-7978cb1a81d2",
+    "name": "Lord of the Pit",
+    "collector_number": "116",
+    "type_line": "Creature — Demon",
+    "mana_cost": "{4}{B}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/b/5b61cb02-7eb7-4d85-8ced-7978cb1a81d2.jpg?1559596673",
+    "image_small": "https://cards.scryfall.io/small/front/5/b/5b61cb02-7eb7-4d85-8ced-7978cb1a81d2.jpg?1559596673",
+    "price_usd": "5.06",
+    "tcgplayer_id": 1485,
+    "price_market": "5.11",
+    "price_median": "4.72"
+  },
+  {
+    "id": "3230ac66-cb75-43cc-b652-b28e2962d163",
+    "name": "Mind Twist",
+    "collector_number": "117",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Julie Baroh",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/2/3230ac66-cb75-43cc-b652-b28e2962d163.jpg?1559596974",
+    "image_small": "https://cards.scryfall.io/small/front/3/2/3230ac66-cb75-43cc-b652-b28e2962d163.jpg?1559596974",
+    "price_usd": "6.60",
+    "tcgplayer_id": 1499,
+    "price_market": "6.6",
+    "price_median": "6.11"
+  },
+  {
+    "id": "cd07c415-4f39-4011-b94a-4aab56dca7d7",
+    "name": "Nether Shadow",
+    "collector_number": "118",
+    "type_line": "Creature — Spirit",
+    "mana_cost": "{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/d/cd07c415-4f39-4011-b94a-4aab56dca7d7.jpg?1559596730",
+    "image_small": "https://cards.scryfall.io/small/front/c/d/cd07c415-4f39-4011-b94a-4aab56dca7d7.jpg?1559596730",
+    "price_usd": "1.87",
+    "tcgplayer_id": 1505,
+    "price_market": "1.87",
+    "price_median": "1.8"
+  },
+  {
+    "id": "94c40a45-6439-4405-8562-11a9000a1061",
+    "name": "Nettling Imp",
+    "collector_number": "119",
+    "type_line": "Creature — Imp",
+    "mana_cost": "{2}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622",
+    "image_small": "https://cards.scryfall.io/small/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622",
+    "price_usd": "0.40",
+    "tcgplayer_id": 1506,
+    "price_market": "0.4",
+    "price_median": "0.4"
+  },
+  {
+    "id": "659c0edb-3afa-4f87-8a94-9fe10578ea1a",
+    "name": "Nightmare",
+    "collector_number": "120",
+    "type_line": "Creature — Nightmare Horse",
+    "mana_cost": "{5}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/5/659c0edb-3afa-4f87-8a94-9fe10578ea1a.jpg?1559596620",
+    "image_small": "https://cards.scryfall.io/small/front/6/5/659c0edb-3afa-4f87-8a94-9fe10578ea1a.jpg?1559596620",
+    "price_usd": "7.99",
+    "tcgplayer_id": 1508,
+    "price_market": "7.99",
+    "price_median": "6.19"
+  },
+  {
+    "id": "dbe8939d-c2f0-4dbc-b7dd-0483208f6876",
+    "name": "Paralyze",
+    "collector_number": "121",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/b/dbe8939d-c2f0-4dbc-b7dd-0483208f6876.jpg?1559596921",
+    "image_small": "https://cards.scryfall.io/small/front/d/b/dbe8939d-c2f0-4dbc-b7dd-0483208f6876.jpg?1559596921",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1515,
+    "price_market": "0.19",
+    "price_median": "0.25"
+  },
+  {
+    "id": "b6647e7d-b0ad-4170-8dce-ea4c89897c6a",
+    "name": "Pestilence",
+    "collector_number": "122",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{B}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/6/b6647e7d-b0ad-4170-8dce-ea4c89897c6a.jpg?1559597150",
+    "image_small": "https://cards.scryfall.io/small/front/b/6/b6647e7d-b0ad-4170-8dce-ea4c89897c6a.jpg?1559597150",
+    "price_usd": "0.37",
+    "tcgplayer_id": 1518,
+    "price_market": "0.37",
+    "price_median": "0.37"
+  },
+  {
+    "id": "47e21390-c661-4717-bbb9-71eb63c6f01e",
+    "name": "Plague Rats",
+    "collector_number": "123",
+    "type_line": "Creature — Rat",
+    "mana_cost": "{2}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/47e21390-c661-4717-bbb9-71eb63c6f01e.jpg?1559596896",
+    "image_small": "https://cards.scryfall.io/small/front/4/7/47e21390-c661-4717-bbb9-71eb63c6f01e.jpg?1559596896",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1523,
+    "price_market": "0.17",
+    "price_median": "0.25"
+  },
+  {
+    "id": "6f3c2902-e2c5-4618-9d4e-3fca34b610c8",
+    "name": "Raise Dead",
+    "collector_number": "124",
+    "type_line": "Sorcery",
+    "mana_cost": "{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/f/6f3c2902-e2c5-4618-9d4e-3fca34b610c8.jpg?1559596672",
+    "image_small": "https://cards.scryfall.io/small/front/6/f/6f3c2902-e2c5-4618-9d4e-3fca34b610c8.jpg?1559596672",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1535,
+    "price_market": "0.14",
+    "price_median": "0.25"
+  },
+  {
+    "id": "4945ec9e-eda7-42ad-88b7-ba14f9d95e54",
+    "name": "Royal Assassin",
+    "collector_number": "125",
+    "type_line": "Creature — Human Assassin",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Tom Wänerstrand",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/9/4945ec9e-eda7-42ad-88b7-ba14f9d95e54.jpg?1559596898",
+    "image_small": "https://cards.scryfall.io/small/front/4/9/4945ec9e-eda7-42ad-88b7-ba14f9d95e54.jpg?1559596898",
+    "price_usd": "10.73",
+    "tcgplayer_id": 1549,
+    "price_market": "10.73",
+    "price_median": "6.96"
+  },
+  {
+    "id": "76bc3b43-158c-420e-a3fb-7413334699ca",
+    "name": "Sacrifice",
+    "collector_number": "126",
+    "type_line": "Instant",
+    "mana_cost": "{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/6/76bc3b43-158c-420e-a3fb-7413334699ca.jpg?1559596743",
+    "image_small": "https://cards.scryfall.io/small/front/7/6/76bc3b43-158c-420e-a3fb-7413334699ca.jpg?1559596743",
+    "price_usd": "3.81",
+    "tcgplayer_id": 1550,
+    "price_market": "3.79",
+    "price_median": "3.9"
+  },
+  {
+    "id": "6cbe576f-03d5-4d22-947a-187d9e20425d",
+    "name": "Scathe Zombies",
+    "collector_number": "127",
+    "type_line": "Creature — Zombie",
+    "mana_cost": "{2}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6cbe576f-03d5-4d22-947a-187d9e20425d.jpg?1559596740",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6cbe576f-03d5-4d22-947a-187d9e20425d.jpg?1559596740",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1554,
+    "price_market": "0.17",
+    "price_median": "0.25"
+  },
+  {
+    "id": "33a5daf6-ce4f-4d00-8458-b7d1a9e037bc",
+    "name": "Scavenging Ghoul",
+    "collector_number": "128",
+    "type_line": "Creature — Zombie",
+    "mana_cost": "{3}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/3/33a5daf6-ce4f-4d00-8458-b7d1a9e037bc.jpg?1559596938",
+    "image_small": "https://cards.scryfall.io/small/front/3/3/33a5daf6-ce4f-4d00-8458-b7d1a9e037bc.jpg?1559596938",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1555,
+    "price_market": "0.21",
+    "price_median": "0.25"
+  },
+  {
+    "id": "fa35113b-5242-41f4-a989-42f2cd8002b6",
+    "name": "Sengir Vampire",
+    "collector_number": "129",
+    "type_line": "Creature — Vampire",
+    "mana_cost": "{3}{B}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/a/fa35113b-5242-41f4-a989-42f2cd8002b6.jpg?1559596586",
+    "image_small": "https://cards.scryfall.io/small/front/f/a/fa35113b-5242-41f4-a989-42f2cd8002b6.jpg?1559596586",
+    "price_usd": "1.38",
+    "tcgplayer_id": 1560,
+    "price_market": "1.38",
+    "price_median": "1.2"
+  },
+  {
+    "id": "bc1b6d40-fdb0-40c3-983d-67a7bfb96cea",
+    "name": "Simulacrum",
+    "collector_number": "130",
+    "type_line": "Instant",
+    "mana_cost": "{1}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/c/bc1b6d40-fdb0-40c3-983d-67a7bfb96cea.jpg?1559596728",
+    "image_small": "https://cards.scryfall.io/small/front/b/c/bc1b6d40-fdb0-40c3-983d-67a7bfb96cea.jpg?1559596728",
+    "price_usd": "0.31",
+    "tcgplayer_id": 1567,
+    "price_market": "0.31",
+    "price_median": "0.34"
+  },
+  {
+    "id": "b83d7331-e573-4dea-901a-de9150d4b5c0",
+    "name": "Sorceress Queen",
+    "collector_number": "131",
+    "type_line": "Creature — Human Wizard Sorcerer",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Kaja Foglio",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/8/b83d7331-e573-4dea-901a-de9150d4b5c0.jpg?1559596696",
+    "image_small": "https://cards.scryfall.io/small/front/b/8/b83d7331-e573-4dea-901a-de9150d4b5c0.jpg?1559596696",
+    "price_usd": "3.27",
+    "tcgplayer_id": 1572,
+    "price_market": "3.27",
+    "price_median": "2.59"
+  },
+  {
+    "id": "0eaf0ac8-f5a7-4689-8d3e-dd865763df44",
+    "name": "Terror",
+    "collector_number": "132",
+    "type_line": "Instant",
+    "mana_cost": "{1}{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Ron Spencer",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/e/0eaf0ac8-f5a7-4689-8d3e-dd865763df44.jpg?1559596913",
+    "image_small": "https://cards.scryfall.io/small/front/0/e/0eaf0ac8-f5a7-4689-8d3e-dd865763df44.jpg?1559596913",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1586,
+    "price_market": "0.19",
+    "price_median": "0.25"
+  },
+  {
+    "id": "3ac35077-91e9-446c-9cb2-e2cfb9fa2962",
+    "name": "Unholy Strength",
+    "collector_number": "133",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3ac35077-91e9-446c-9cb2-e2cfb9fa2962.jpg?1559596965",
+    "image_small": "https://cards.scryfall.io/small/front/3/a/3ac35077-91e9-446c-9cb2-e2cfb9fa2962.jpg?1559596965",
+    "price_usd": "0.24",
+    "tcgplayer_id": 1600,
+    "price_market": "0.24",
+    "price_median": "0.25"
+  },
+  {
+    "id": "4f9d6c2b-3492-4360-90cf-649608d4910f",
+    "name": "Wall of Bone",
+    "collector_number": "134",
+    "type_line": "Creature — Skeleton Wall",
+    "mana_cost": "{2}{B}",
+    "rarity": "uncommon",
+    "colors": [
+      "B"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/f/4f9d6c2b-3492-4360-90cf-649608d4910f.jpg?1559596576",
+    "image_small": "https://cards.scryfall.io/small/front/4/f/4f9d6c2b-3492-4360-90cf-649608d4910f.jpg?1559596576",
+    "price_usd": "0.25",
+    "tcgplayer_id": 1610,
+    "price_market": "0.23",
+    "price_median": "0.3"
+  },
+  {
+    "id": "948a03b0-ce48-4fac-816f-8224b7ae936a",
+    "name": "Warp Artifact",
+    "collector_number": "135",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/4/948a03b0-ce48-4fac-816f-8224b7ae936a.jpg?1559596826",
+    "image_small": "https://cards.scryfall.io/small/front/9/4/948a03b0-ce48-4fac-816f-8224b7ae936a.jpg?1559596826",
+    "price_usd": "0.75",
+    "tcgplayer_id": 1620,
+    "price_market": "0.75",
+    "price_median": "0.7"
+  },
+  {
+    "id": "6774a228-ec9e-47d0-bc43-a92f5caf8398",
+    "name": "Weakness",
+    "collector_number": "136",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{B}",
+    "rarity": "common",
+    "colors": [
+      "B"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/7/6774a228-ec9e-47d0-bc43-a92f5caf8398.jpg?1559597105",
+    "image_small": "https://cards.scryfall.io/small/front/6/7/6774a228-ec9e-47d0-bc43-a92f5caf8398.jpg?1559597105",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1622,
+    "price_market": "0.14",
+    "price_median": "0.25"
+  },
+  {
+    "id": "551e5fdd-ed3a-4f44-b4d1-97900ef46373",
+    "name": "Will-o'-the-Wisp",
+    "collector_number": "137",
+    "type_line": "Creature — Spirit",
+    "mana_cost": "{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/5/551e5fdd-ed3a-4f44-b4d1-97900ef46373.jpg?1559596918",
+    "image_small": "https://cards.scryfall.io/small/front/5/5/551e5fdd-ed3a-4f44-b4d1-97900ef46373.jpg?1559596918",
+    "price_usd": "4.57",
+    "tcgplayer_id": 1628,
+    "price_market": "4.57",
+    "price_median": "4.4"
+  },
+  {
+    "id": "e868767f-b62e-4bb4-95e5-62feac05ff9d",
+    "name": "Zombie Master",
+    "collector_number": "138",
+    "type_line": "Creature — Zombie",
+    "mana_cost": "{1}{B}{B}",
+    "rarity": "rare",
+    "colors": [
+      "B"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/8/e868767f-b62e-4bb4-95e5-62feac05ff9d.jpg?1559596880",
+    "image_small": "https://cards.scryfall.io/small/front/e/8/e868767f-b62e-4bb4-95e5-62feac05ff9d.jpg?1559596880",
+    "price_usd": "5.91",
+    "tcgplayer_id": 1632,
+    "price_market": "5.91",
+    "price_median": "5.56"
+  },
+  {
+    "id": "976121fd-a21d-42cd-a7d0-310c8648e307",
+    "name": "Atog",
+    "collector_number": "139",
+    "type_line": "Creature — Atog",
+    "mana_cost": "{1}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/7/976121fd-a21d-42cd-a7d0-310c8648e307.jpg?1559596986",
+    "image_small": "https://cards.scryfall.io/small/front/9/7/976121fd-a21d-42cd-a7d0-310c8648e307.jpg?1559596986",
+    "price_usd": "0.18",
+    "tcgplayer_id": 1337,
+    "price_market": "0.18",
+    "price_median": "0.25"
+  },
+  {
+    "id": "c2b99b30-a972-4e5d-a772-06884719ac7c",
+    "name": "Burrowing",
+    "collector_number": "140",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/2/c2b99b30-a972-4e5d-a772-06884719ac7c.jpg?1559596911",
+    "image_small": "https://cards.scryfall.io/small/front/c/2/c2b99b30-a972-4e5d-a772-06884719ac7c.jpg?1559596911",
+    "price_usd": "0.22",
+    "tcgplayer_id": 1355,
+    "price_market": "0.22",
+    "price_median": "0.29"
+  },
+  {
+    "id": "37df20a7-9299-434c-84ca-8019851ee31b",
+    "name": "Chaoslace",
+    "collector_number": "141",
+    "type_line": "Instant",
+    "mana_cost": "{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/7/37df20a7-9299-434c-84ca-8019851ee31b.jpg?1559596688",
+    "image_small": "https://cards.scryfall.io/small/front/3/7/37df20a7-9299-434c-84ca-8019851ee31b.jpg?1559596688",
+    "price_usd": "0.48",
+    "tcgplayer_id": 1359,
+    "price_market": "0.48",
+    "price_median": "0.51"
+  },
+  {
+    "id": "ce71d4c8-3835-4065-8089-82a64846dbcb",
+    "name": "Disintegrate",
+    "collector_number": "142",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/e/ce71d4c8-3835-4065-8089-82a64846dbcb.jpg?1559597159",
+    "image_small": "https://cards.scryfall.io/small/front/c/e/ce71d4c8-3835-4065-8089-82a64846dbcb.jpg?1559597159",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1392,
+    "price_market": "0.23",
+    "price_median": "0.25"
+  },
+  {
+    "id": "643d6f5b-6a17-434d-945a-6b9a05015493",
+    "name": "Dragon Whelp",
+    "collector_number": "143",
+    "type_line": "Creature — Dragon",
+    "mana_cost": "{2}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/4/643d6f5b-6a17-434d-945a-6b9a05015493.jpg?1559596759",
+    "image_small": "https://cards.scryfall.io/small/front/6/4/643d6f5b-6a17-434d-945a-6b9a05015493.jpg?1559596759",
+    "price_usd": "0.44",
+    "tcgplayer_id": 1395,
+    "price_market": "0.44",
+    "price_median": "0.45"
+  },
+  {
+    "id": "6caeadf8-1b40-497d-be7c-667fbb98f848",
+    "name": "Dwarven Warriors",
+    "collector_number": "144",
+    "type_line": "Creature — Dwarf Warrior",
+    "mana_cost": "{2}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6caeadf8-1b40-497d-be7c-667fbb98f848.jpg?1559596633",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6caeadf8-1b40-497d-be7c-667fbb98f848.jpg?1559596633",
+    "price_usd": "0.15",
+    "tcgplayer_id": 1399,
+    "price_market": "0.15",
+    "price_median": "0.25"
+  },
+  {
+    "id": "c83929b1-4826-4b84-823d-0997560b6bdc",
+    "name": "Dwarven Weaponsmith",
+    "collector_number": "145",
+    "type_line": "Creature — Dwarf Artificer",
+    "mana_cost": "{1}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/8/c83929b1-4826-4b84-823d-0997560b6bdc.jpg?1559596758",
+    "image_small": "https://cards.scryfall.io/small/front/c/8/c83929b1-4826-4b84-823d-0997560b6bdc.jpg?1559596758",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1400,
+    "price_market": "0.23",
+    "price_median": "0.26"
+  },
+  {
+    "id": "e2285cf5-f1c0-42d2-8203-297d2a5b9ec2",
+    "name": "Earth Elemental",
+    "collector_number": "146",
+    "type_line": "Creature — Elemental",
+    "mana_cost": "{3}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/2/e2285cf5-f1c0-42d2-8203-297d2a5b9ec2.jpg?1559596791",
+    "image_small": "https://cards.scryfall.io/small/front/e/2/e2285cf5-f1c0-42d2-8203-297d2a5b9ec2.jpg?1559596791",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1401,
+    "price_market": "0.28",
+    "price_median": "0.3"
+  },
+  {
+    "id": "7ec1650e-8ecb-460a-9319-0f59de48c824",
+    "name": "Earthbind",
+    "collector_number": "147",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/e/7ec1650e-8ecb-460a-9319-0f59de48c824.jpg?1559597136",
+    "image_small": "https://cards.scryfall.io/small/front/7/e/7ec1650e-8ecb-460a-9319-0f59de48c824.jpg?1559597136",
+    "price_usd": "0.92",
+    "tcgplayer_id": 1402,
+    "price_market": "0.92",
+    "price_median": "0.94"
+  },
+  {
+    "id": "603d1f86-2098-4af5-a038-c5a314ba7184",
+    "name": "Earthquake",
+    "collector_number": "148",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/0/603d1f86-2098-4af5-a038-c5a314ba7184.jpg?1559596982",
+    "image_small": "https://cards.scryfall.io/small/front/6/0/603d1f86-2098-4af5-a038-c5a314ba7184.jpg?1559596982",
+    "price_usd": "2.50",
+    "tcgplayer_id": 1403,
+    "price_market": "2.5",
+    "price_median": "2.49"
+  },
+  {
+    "id": "63539181-5393-41b8-baf3-9a690d17f4ce",
+    "name": "Fire Elemental",
+    "collector_number": "149",
+    "type_line": "Creature — Elemental",
+    "mana_cost": "{3}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/63539181-5393-41b8-baf3-9a690d17f4ce.jpg?1559596983",
+    "image_small": "https://cards.scryfall.io/small/front/6/3/63539181-5393-41b8-baf3-9a690d17f4ce.jpg?1559596983",
+    "price_usd": "0.32",
+    "tcgplayer_id": 1415,
+    "price_market": "0.32",
+    "price_median": null
+  },
+  {
+    "id": "dafb512f-536f-4f96-8440-03f1d20d8a5a",
+    "name": "Fireball",
+    "collector_number": "150",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/a/dafb512f-536f-4f96-8440-03f1d20d8a5a.jpg?1559597131",
+    "image_small": "https://cards.scryfall.io/small/front/d/a/dafb512f-536f-4f96-8440-03f1d20d8a5a.jpg?1559597131",
+    "price_usd": "0.89",
+    "tcgplayer_id": 1416,
+    "price_market": "0.89",
+    "price_median": null
+  },
+  {
+    "id": "16682a6e-8d86-4ad6-a6b1-3171000cc708",
+    "name": "Firebreathing",
+    "collector_number": "151",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/6/16682a6e-8d86-4ad6-a6b1-3171000cc708.jpg?1559597130",
+    "image_small": "https://cards.scryfall.io/small/front/1/6/16682a6e-8d86-4ad6-a6b1-3171000cc708.jpg?1559597130",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1417,
+    "price_market": "0.14",
+    "price_median": null
+  },
+  {
+    "id": "7b23de17-d867-41f8-b965-9b3eb00db701",
+    "name": "Flashfires",
+    "collector_number": "152",
+    "type_line": "Sorcery",
+    "mana_cost": "{3}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/b/7b23de17-d867-41f8-b965-9b3eb00db701.jpg?1559596909",
+    "image_small": "https://cards.scryfall.io/small/front/7/b/7b23de17-d867-41f8-b965-9b3eb00db701.jpg?1559596909",
+    "price_usd": "0.34",
+    "tcgplayer_id": 1418,
+    "price_market": "0.34",
+    "price_median": null
+  },
+  {
+    "id": "a33a1695-db21-4dc5-9dc1-dd05d12e6b40",
+    "name": "Fork",
+    "collector_number": "153",
+    "type_line": "Instant",
+    "mana_cost": "{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/3/a33a1695-db21-4dc5-9dc1-dd05d12e6b40.jpg?1559596924",
+    "image_small": "https://cards.scryfall.io/small/front/a/3/a33a1695-db21-4dc5-9dc1-dd05d12e6b40.jpg?1559596924",
+    "price_usd": "32.92",
+    "tcgplayer_id": 1426,
+    "price_market": "32.92",
+    "price_median": null
+  },
+  {
+    "id": "c31c14c0-71a4-40e0-b447-6c7124c84059",
+    "name": "Goblin Balloon Brigade",
+    "collector_number": "154",
+    "type_line": "Creature — Goblin Warrior",
+    "mana_cost": "{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Andi Rusu",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/3/c31c14c0-71a4-40e0-b447-6c7124c84059.jpg?1559596809",
+    "image_small": "https://cards.scryfall.io/small/front/c/3/c31c14c0-71a4-40e0-b447-6c7124c84059.jpg?1559596809",
+    "price_usd": "0.37",
+    "tcgplayer_id": 1434,
+    "price_market": "0.37",
+    "price_median": null
+  },
+  {
+    "id": "e3094187-d666-414b-a1fd-ae0ef55c3fcb",
+    "name": "Goblin King",
+    "collector_number": "155",
+    "type_line": "Creature — Goblin",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/3/e3094187-d666-414b-a1fd-ae0ef55c3fcb.jpg?1559597127",
+    "image_small": "https://cards.scryfall.io/small/front/e/3/e3094187-d666-414b-a1fd-ae0ef55c3fcb.jpg?1559597127",
+    "price_usd": "5.27",
+    "tcgplayer_id": 1435,
+    "price_market": "5.27",
+    "price_median": null
+  },
+  {
+    "id": "03dfa7f7-8f08-49f6-96fd-eebf16ceb499",
+    "name": "Granite Gargoyle",
+    "collector_number": "156",
+    "type_line": "Creature — Gargoyle",
+    "mana_cost": "{2}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/3/03dfa7f7-8f08-49f6-96fd-eebf16ceb499.jpg?1559596717",
+    "image_small": "https://cards.scryfall.io/small/front/0/3/03dfa7f7-8f08-49f6-96fd-eebf16ceb499.jpg?1559596717",
+    "price_usd": "2.19",
+    "tcgplayer_id": 1436,
+    "price_market": "2.19",
+    "price_median": null
+  },
+  {
+    "id": "e26041ad-b326-40e6-a7fd-eacfcb0ab17e",
+    "name": "Gray Ogre",
+    "collector_number": "157",
+    "type_line": "Creature — Ogre",
+    "mana_cost": "{2}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/2/e26041ad-b326-40e6-a7fd-eacfcb0ab17e.jpg?1559596927",
+    "image_small": "https://cards.scryfall.io/small/front/e/2/e26041ad-b326-40e6-a7fd-eacfcb0ab17e.jpg?1559596927",
+    "price_usd": "0.10",
+    "tcgplayer_id": 1437,
+    "price_market": "0.10",
+    "price_median": null
+  },
+  {
+    "id": "c987a3ec-a775-4140-ad49-18025e59dc3d",
+    "name": "Hill Giant",
+    "collector_number": "158",
+    "type_line": "Creature — Giant",
+    "mana_cost": "{3}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/9/c987a3ec-a775-4140-ad49-18025e59dc3d.jpg?1559596716",
+    "image_small": "https://cards.scryfall.io/small/front/c/9/c987a3ec-a775-4140-ad49-18025e59dc3d.jpg?1559596716",
+    "price_usd": "0.13",
+    "tcgplayer_id": 1443,
+    "price_market": "0.13",
+    "price_median": null
+  },
+  {
+    "id": "f6de6b0d-dd8c-4ab9-8de3-b083a36b24b7",
+    "name": "Hurloon Minotaur",
+    "collector_number": "159",
+    "type_line": "Creature — Minotaur",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/6/f6de6b0d-dd8c-4ab9-8de3-b083a36b24b7.jpg?1559596985",
+    "image_small": "https://cards.scryfall.io/small/front/f/6/f6de6b0d-dd8c-4ab9-8de3-b083a36b24b7.jpg?1559596985",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1449,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "ad3abbfb-320a-41ad-808c-dd93964efb44",
+    "name": "Keldon Warlord",
+    "collector_number": "160",
+    "type_line": "Creature — Human Barbarian",
+    "mana_cost": "{2}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Kev Brockschmidt",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/d/ad3abbfb-320a-41ad-808c-dd93964efb44.jpg?1559596733",
+    "image_small": "https://cards.scryfall.io/small/front/a/d/ad3abbfb-320a-41ad-808c-dd93964efb44.jpg?1559596733",
+    "price_usd": "0.27",
+    "tcgplayer_id": 1469,
+    "price_market": "0.27",
+    "price_median": null
+  },
+  {
+    "id": "967a26e0-8dca-4215-9935-b77a7dd4dde0",
+    "name": "Kird Ape",
+    "collector_number": "161",
+    "type_line": "Creature — Ape",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Ken Meyer, Jr.",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/6/967a26e0-8dca-4215-9935-b77a7dd4dde0.jpg?1559596775",
+    "image_small": "https://cards.scryfall.io/small/front/9/6/967a26e0-8dca-4215-9935-b77a7dd4dde0.jpg?1559596775",
+    "price_usd": "0.38",
+    "tcgplayer_id": 1470,
+    "price_market": "0.38",
+    "price_median": null
+  },
+  {
+    "id": "cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c",
+    "name": "Lightning Bolt",
+    "collector_number": "162",
+    "type_line": "Instant",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/b/cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c.jpg?1559596782",
+    "image_small": "https://cards.scryfall.io/small/front/c/b/cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c.jpg?1559596782",
+    "price_usd": "1.69",
+    "tcgplayer_id": 1479,
+    "price_market": "1.69",
+    "price_median": null
+  },
+  {
+    "id": "dc95e03d-5521-4a01-8028-200b8467ce86",
+    "name": "Magnetic Mountain",
+    "collector_number": "163",
+    "type_line": "Enchantment",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Susan Van Camp",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/c/dc95e03d-5521-4a01-8028-200b8467ce86.jpg?1559596971",
+    "image_small": "https://cards.scryfall.io/small/front/d/c/dc95e03d-5521-4a01-8028-200b8467ce86.jpg?1559596971",
+    "price_usd": "0.80",
+    "tcgplayer_id": 1488,
+    "price_market": "0.80",
+    "price_median": null
+  },
+  {
+    "id": "b59d2329-5a0c-407b-aed2-2e19feaf70ed",
+    "name": "Mana Flare",
+    "collector_number": "164",
+    "type_line": "Enchantment",
+    "mana_cost": "{2}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/5/b59d2329-5a0c-407b-aed2-2e19feaf70ed.jpg?1559596769",
+    "image_small": "https://cards.scryfall.io/small/front/b/5/b59d2329-5a0c-407b-aed2-2e19feaf70ed.jpg?1559596769",
+    "price_usd": "3.59",
+    "tcgplayer_id": 1490,
+    "price_market": "3.59",
+    "price_median": null
+  },
+  {
+    "id": "8b16d8b7-3ff8-4481-bd4a-aa283b78bead",
+    "name": "Manabarbs",
+    "collector_number": "165",
+    "type_line": "Enchantment",
+    "mana_cost": "{3}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/b/8b16d8b7-3ff8-4481-bd4a-aa283b78bead.jpg?1559596973",
+    "image_small": "https://cards.scryfall.io/small/front/8/b/8b16d8b7-3ff8-4481-bd4a-aa283b78bead.jpg?1559596973",
+    "price_usd": "4.22",
+    "tcgplayer_id": 1493,
+    "price_market": "4.22",
+    "price_median": null
+  },
+  {
+    "id": "7e0c6c15-fba2-447a-a84c-01bb837b912e",
+    "name": "Mijae Djinn",
+    "collector_number": "166",
+    "type_line": "Creature — Djinn",
+    "mana_cost": "{R}{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Susan Van Camp",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/e/7e0c6c15-fba2-447a-a84c-01bb837b912e.jpg?1559596657",
+    "image_small": "https://cards.scryfall.io/small/front/7/e/7e0c6c15-fba2-447a-a84c-01bb837b912e.jpg?1559596657",
+    "price_usd": "1.51",
+    "tcgplayer_id": 1497,
+    "price_market": "1.51",
+    "price_median": null
+  },
+  {
+    "id": "6e81e219-c840-4844-be87-0449ab0fa645",
+    "name": "Mons's Goblin Raiders",
+    "collector_number": "167",
+    "type_line": "Creature — Goblin",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/e/6e81e219-c840-4844-be87-0449ab0fa645.jpg?1559596764",
+    "image_small": "https://cards.scryfall.io/small/front/6/e/6e81e219-c840-4844-be87-0449ab0fa645.jpg?1559596764",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1501,
+    "price_market": "0.19",
+    "price_median": null
+  },
+  {
+    "id": "574650db-2af2-4e80-a83a-a20584e3a8a9",
+    "name": "Orcish Artillery",
+    "collector_number": "168",
+    "type_line": "Creature — Orc Warrior",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/7/574650db-2af2-4e80-a83a-a20584e3a8a9.jpg?1559597152",
+    "image_small": "https://cards.scryfall.io/small/front/5/7/574650db-2af2-4e80-a83a-a20584e3a8a9.jpg?1559597152",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1512,
+    "price_market": "0.21",
+    "price_median": null
+  },
+  {
+    "id": "71a941f4-3bdc-40b6-8b24-d73136283f51",
+    "name": "Orcish Oriflamme",
+    "collector_number": "169",
+    "type_line": "Enchantment",
+    "mana_cost": "{3}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/1/71a941f4-3bdc-40b6-8b24-d73136283f51.jpg?1559596726",
+    "image_small": "https://cards.scryfall.io/small/front/7/1/71a941f4-3bdc-40b6-8b24-d73136283f51.jpg?1559596726",
+    "price_usd": "0.25",
+    "tcgplayer_id": 1513,
+    "price_market": "0.25",
+    "price_median": null
+  },
+  {
+    "id": "9f521a52-f4e3-4043-9db3-a3c89afce3b9",
+    "name": "Power Surge",
+    "collector_number": "170",
+    "type_line": "Enchantment",
+    "mana_cost": "{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/f/9f521a52-f4e3-4043-9db3-a3c89afce3b9.jpg?1559597142",
+    "image_small": "https://cards.scryfall.io/small/front/9/f/9f521a52-f4e3-4043-9db3-a3c89afce3b9.jpg?1559597142",
+    "price_usd": "1.49",
+    "tcgplayer_id": 1530,
+    "price_market": "1.49",
+    "price_median": null
+  },
+  {
+    "id": "2d83a2a3-5495-4457-8eb7-9f9a75da6cc3",
+    "name": "Red Elemental Blast",
+    "collector_number": "171",
+    "type_line": "Instant",
+    "mana_cost": "{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/d/2d83a2a3-5495-4457-8eb7-9f9a75da6cc3.jpg?1559596653",
+    "image_small": "https://cards.scryfall.io/small/front/2/d/2d83a2a3-5495-4457-8eb7-9f9a75da6cc3.jpg?1559596653",
+    "price_usd": "3.43",
+    "tcgplayer_id": 1537,
+    "price_market": "3.43",
+    "price_median": null
+  },
+  {
+    "id": "ad034b0a-655b-465b-a8bb-3d4eee59abdf",
+    "name": "Roc of Kher Ridges",
+    "collector_number": "172",
+    "type_line": "Creature — Bird",
+    "mana_cost": "{3}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Andi Rusu",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/d/ad034b0a-655b-465b-a8bb-3d4eee59abdf.jpg?1559596708",
+    "image_small": "https://cards.scryfall.io/small/front/a/d/ad034b0a-655b-465b-a8bb-3d4eee59abdf.jpg?1559596708",
+    "price_usd": "1.74",
+    "tcgplayer_id": 1545,
+    "price_market": "1.74",
+    "price_median": null
+  },
+  {
+    "id": "c2a08993-d6c5-45ad-82dc-093c8b912a56",
+    "name": "Rock Hydra",
+    "collector_number": "173",
+    "type_line": "Creature — Hydra",
+    "mana_cost": "{X}{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/2/c2a08993-d6c5-45ad-82dc-093c8b912a56.jpg?1559596979",
+    "image_small": "https://cards.scryfall.io/small/front/c/2/c2a08993-d6c5-45ad-82dc-093c8b912a56.jpg?1559596979",
+    "price_usd": "4.35",
+    "tcgplayer_id": 1546,
+    "price_market": "4.35",
+    "price_median": null
+  },
+  {
+    "id": "485d3707-59ce-4350-9ec8-9df232f88c04",
+    "name": "Sedge Troll",
+    "collector_number": "174",
+    "type_line": "Creature — Troll",
+    "mana_cost": "{2}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/8/485d3707-59ce-4350-9ec8-9df232f88c04.jpg?1559596734",
+    "image_small": "https://cards.scryfall.io/small/front/4/8/485d3707-59ce-4350-9ec8-9df232f88c04.jpg?1559596734",
+    "price_usd": "3.60",
+    "tcgplayer_id": 1559,
+    "price_market": "3.60",
+    "price_median": null
+  },
+  {
+    "id": "93ff3216-aaaf-4c8f-8355-82e1fc61a747",
+    "name": "Shatter",
+    "collector_number": "175",
+    "type_line": "Instant",
+    "mana_cost": "{1}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/3/93ff3216-aaaf-4c8f-8355-82e1fc61a747.jpg?1559596794",
+    "image_small": "https://cards.scryfall.io/small/front/9/3/93ff3216-aaaf-4c8f-8355-82e1fc61a747.jpg?1559596794",
+    "price_usd": "0.17",
+    "tcgplayer_id": 1564,
+    "price_market": "0.17",
+    "price_median": null
+  },
+  {
+    "id": "52e5e508-afc6-409d-b912-33cf1d2351d1",
+    "name": "Shatterstorm",
+    "collector_number": "176",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/2/52e5e508-afc6-409d-b912-33cf1d2351d1.jpg?1559596649",
+    "image_small": "https://cards.scryfall.io/small/front/5/2/52e5e508-afc6-409d-b912-33cf1d2351d1.jpg?1559596649",
+    "price_usd": "0.37",
+    "tcgplayer_id": 1565,
+    "price_market": "0.37",
+    "price_median": null
+  },
+  {
+    "id": "69199dd2-dbac-4039-b4da-eb2b0671645f",
+    "name": "Shivan Dragon",
+    "collector_number": "177",
+    "type_line": "Creature — Dragon",
+    "mana_cost": "{4}{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/9/69199dd2-dbac-4039-b4da-eb2b0671645f.jpg?1559596666",
+    "image_small": "https://cards.scryfall.io/small/front/6/9/69199dd2-dbac-4039-b4da-eb2b0671645f.jpg?1559596666",
+    "price_usd": "25.67",
+    "tcgplayer_id": 1566,
+    "price_market": "25.67",
+    "price_median": null
+  },
+  {
+    "id": "7b20087c-355d-4157-bd4e-b4dc2be49b69",
+    "name": "Smoke",
+    "collector_number": "178",
+    "type_line": "Enchantment",
+    "mana_cost": "{R}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/b/7b20087c-355d-4157-bd4e-b4dc2be49b69.jpg?1559596945",
+    "image_small": "https://cards.scryfall.io/small/front/7/b/7b20087c-355d-4157-bd4e-b4dc2be49b69.jpg?1559596945",
+    "price_usd": "4.72",
+    "tcgplayer_id": 1570,
+    "price_market": "4.72",
+    "price_median": null
+  },
+  {
+    "id": "a3b8a84d-44d8-4ad3-b04d-a94634e25453",
+    "name": "Stone Giant",
+    "collector_number": "179",
+    "type_line": "Creature — Giant",
+    "mana_cost": "{2}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/3/a3b8a84d-44d8-4ad3-b04d-a94634e25453.jpg?1559596719",
+    "image_small": "https://cards.scryfall.io/small/front/a/3/a3b8a84d-44d8-4ad3-b04d-a94634e25453.jpg?1559596719",
+    "price_usd": "0.18",
+    "tcgplayer_id": 1577,
+    "price_market": "0.18",
+    "price_median": null
+  },
+  {
+    "id": "35c7176a-694c-4e1d-8dca-dcd718d94250",
+    "name": "Stone Rain",
+    "collector_number": "180",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{R}",
+    "rarity": "common",
+    "colors": [
+      "R"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/5/35c7176a-694c-4e1d-8dca-dcd718d94250.jpg?1559596713",
+    "image_small": "https://cards.scryfall.io/small/front/3/5/35c7176a-694c-4e1d-8dca-dcd718d94250.jpg?1559596713",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1578,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "7b379eeb-4d7e-4421-8fc4-b5255eb373f5",
+    "name": "Tunnel",
+    "collector_number": "181",
+    "type_line": "Instant",
+    "mana_cost": "{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/b/7b379eeb-4d7e-4421-8fc4-b5255eb373f5.jpg?1559596841",
+    "image_small": "https://cards.scryfall.io/small/front/7/b/7b379eeb-4d7e-4421-8fc4-b5255eb373f5.jpg?1559596841",
+    "price_usd": "0.22",
+    "tcgplayer_id": 1598,
+    "price_market": "0.22",
+    "price_median": null
+  },
+  {
+    "id": "0403aef5-b5f3-4d07-a350-4874801b27e8",
+    "name": "Uthden Troll",
+    "collector_number": "182",
+    "type_line": "Creature — Troll",
+    "mana_cost": "{2}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/4/0403aef5-b5f3-4d07-a350-4874801b27e8.jpg?1688131915",
+    "image_small": "https://cards.scryfall.io/small/front/0/4/0403aef5-b5f3-4d07-a350-4874801b27e8.jpg?1688131915",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1603,
+    "price_market": "0.28",
+    "price_median": null
+  },
+  {
+    "id": "f7fbd53b-d1b2-41b7-a402-91227670a1d7",
+    "name": "Wall of Fire",
+    "collector_number": "183",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/7/f7fbd53b-d1b2-41b7-a402-91227670a1d7.jpg?1559596835",
+    "image_small": "https://cards.scryfall.io/small/front/f/7/f7fbd53b-d1b2-41b7-a402-91227670a1d7.jpg?1559596835",
+    "price_usd": "0.22",
+    "tcgplayer_id": 1612,
+    "price_market": "0.22",
+    "price_median": null
+  },
+  {
+    "id": "667c227f-a3b7-4040-8b67-75a6fc209e67",
+    "name": "Wall of Stone",
+    "collector_number": "184",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{1}{R}{R}",
+    "rarity": "uncommon",
+    "colors": [
+      "R"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/6/667c227f-a3b7-4040-8b67-75a6fc209e67.jpg?1559596832",
+    "image_small": "https://cards.scryfall.io/small/front/6/6/667c227f-a3b7-4040-8b67-75a6fc209e67.jpg?1559596832",
+    "price_usd": "0.25",
+    "tcgplayer_id": 1614,
+    "price_market": "0.25",
+    "price_median": null
+  },
+  {
+    "id": "c14c07d4-6971-483a-add1-f3cdf18feae9",
+    "name": "Wheel of Fortune",
+    "collector_number": "185",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{R}",
+    "rarity": "rare",
+    "colors": [
+      "R"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/1/c14c07d4-6971-483a-add1-f3cdf18feae9.jpg?1559596691",
+    "image_small": "https://cards.scryfall.io/small/front/c/1/c14c07d4-6971-483a-add1-f3cdf18feae9.jpg?1559596691",
+    "price_usd": "318.38",
+    "tcgplayer_id": 1624,
+    "price_market": "318.38",
+    "price_median": null
+  },
+  {
+    "id": "7248db64-c901-4e87-9322-e122d2d32ddc",
+    "name": "Aspect of Wolf",
+    "collector_number": "186",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/2/7248db64-c901-4e87-9322-e122d2d32ddc.jpg?1559596603",
+    "image_small": "https://cards.scryfall.io/small/front/7/2/7248db64-c901-4e87-9322-e122d2d32ddc.jpg?1559596603",
+    "price_usd": "2.55",
+    "tcgplayer_id": 1336,
+    "price_market": "2.55",
+    "price_median": null
+  },
+  {
+    "id": "01e7b0bc-1c6c-48f4-8b72-1a809f536c6c",
+    "name": "Birds of Paradise",
+    "collector_number": "187",
+    "type_line": "Creature — Bird",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/1/01e7b0bc-1c6c-48f4-8b72-1a809f536c6c.jpg?1559596989",
+    "image_small": "https://cards.scryfall.io/small/front/0/1/01e7b0bc-1c6c-48f4-8b72-1a809f536c6c.jpg?1559596989",
+    "price_usd": "22.98",
+    "tcgplayer_id": 1344,
+    "price_market": "22.98",
+    "price_median": null
+  },
+  {
+    "id": "bc0cea66-7c61-4308-af2f-3622fbb82983",
+    "name": "Channel",
+    "collector_number": "188",
+    "type_line": "Sorcery",
+    "mana_cost": "{G}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/c/bc0cea66-7c61-4308-af2f-3622fbb82983.jpg?1559596865",
+    "image_small": "https://cards.scryfall.io/small/front/b/c/bc0cea66-7c61-4308-af2f-3622fbb82983.jpg?1559596865",
+    "price_usd": "0.46",
+    "tcgplayer_id": 1358,
+    "price_market": "0.46",
+    "price_median": null
+  },
+  {
+    "id": "3c5d9117-135f-4a88-950a-41bf164ebc21",
+    "name": "Cockatrice",
+    "collector_number": "189",
+    "type_line": "Creature — Cockatrice",
+    "mana_cost": "{3}{G}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/c/3c5d9117-135f-4a88-950a-41bf164ebc21.jpg?1559596859",
+    "image_small": "https://cards.scryfall.io/small/front/3/c/3c5d9117-135f-4a88-950a-41bf164ebc21.jpg?1559596859",
+    "price_usd": "2.11",
+    "tcgplayer_id": 1367,
+    "price_market": "2.11",
+    "price_median": null
+  },
+  {
+    "id": "a5e4a23b-3b05-4240-9565-bdd8f3f3ef12",
+    "name": "Craw Wurm",
+    "collector_number": "190",
+    "type_line": "Creature — Wurm",
+    "mana_cost": "{4}{G}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/5/a5e4a23b-3b05-4240-9565-bdd8f3f3ef12.jpg?1559596606",
+    "image_small": "https://cards.scryfall.io/small/front/a/5/a5e4a23b-3b05-4240-9565-bdd8f3f3ef12.jpg?1559596606",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1374,
+    "price_market": "0.21",
+    "price_median": null
+  },
+  {
+    "id": "32123652-4f71-4f0b-b317-39e6df039b4f",
+    "name": "Crumble",
+    "collector_number": "191",
+    "type_line": "Instant",
+    "mana_cost": "{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/2/32123652-4f71-4f0b-b317-39e6df039b4f.jpg?1559596694",
+    "image_small": "https://cards.scryfall.io/small/front/3/2/32123652-4f71-4f0b-b317-39e6df039b4f.jpg?1559596694",
+    "price_usd": "0.26",
+    "tcgplayer_id": 1376,
+    "price_market": "0.26",
+    "price_median": null
+  },
+  {
+    "id": "88cbcf7e-9d66-4e1b-b056-8edf708fca84",
+    "name": "Desert Twister",
+    "collector_number": "192",
+    "type_line": "Sorcery",
+    "mana_cost": "{4}{G}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Susan Van Camp",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/8/88cbcf7e-9d66-4e1b-b056-8edf708fca84.jpg?1559596682",
+    "image_small": "https://cards.scryfall.io/small/front/8/8/88cbcf7e-9d66-4e1b-b056-8edf708fca84.jpg?1559596682",
+    "price_usd": "0.42",
+    "tcgplayer_id": 1389,
+    "price_market": "0.42",
+    "price_median": null
+  },
+  {
+    "id": "24547919-0272-4502-9b3a-e9a0eb6a90d2",
+    "name": "Elvish Archers",
+    "collector_number": "193",
+    "type_line": "Creature — Elf Archer",
+    "mana_cost": "{1}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/4/24547919-0272-4502-9b3a-e9a0eb6a90d2.jpg?1559596756",
+    "image_small": "https://cards.scryfall.io/small/front/2/4/24547919-0272-4502-9b3a-e9a0eb6a90d2.jpg?1559596756",
+    "price_usd": "2.12",
+    "tcgplayer_id": 1406,
+    "price_market": "2.12",
+    "price_median": null
+  },
+  {
+    "id": "c71123b5-6be5-4c3c-972a-0aad3db1a694",
+    "name": "Fastbond",
+    "collector_number": "194",
+    "type_line": "Enchantment",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/7/c71123b5-6be5-4c3c-972a-0aad3db1a694.jpg?1559596613",
+    "image_small": "https://cards.scryfall.io/small/front/c/7/c71123b5-6be5-4c3c-972a-0aad3db1a694.jpg?1559596613",
+    "price_usd": "27.28",
+    "tcgplayer_id": 1412,
+    "price_market": "27.28",
+    "price_median": null
+  },
+  {
+    "id": "637cbc3f-f2c0-42db-b9f9-6c084846cb03",
+    "name": "Fog",
+    "collector_number": "195",
+    "type_line": "Instant",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/3/637cbc3f-f2c0-42db-b9f9-6c084846cb03.jpg?1559596685",
+    "image_small": "https://cards.scryfall.io/small/front/6/3/637cbc3f-f2c0-42db-b9f9-6c084846cb03.jpg?1559596685",
+    "price_usd": "0.26",
+    "tcgplayer_id": 1421,
+    "price_market": "0.26",
+    "price_median": null
+  },
+  {
+    "id": "56cb88db-2c6b-4d17-be16-2a89218efe4c",
+    "name": "Force of Nature",
+    "collector_number": "196",
+    "type_line": "Creature — Elemental",
+    "mana_cost": "{2}{G}{G}{G}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56cb88db-2c6b-4d17-be16-2a89218efe4c.jpg?1559596925",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/56cb88db-2c6b-4d17-be16-2a89218efe4c.jpg?1559596925",
+    "price_usd": "4.37",
+    "tcgplayer_id": 1422,
+    "price_market": "4.37",
+    "price_median": null
+  },
+  {
+    "id": "6f80ad09-ebff-47cb-93ab-9bc7e0e10056",
+    "name": "Fungusaur",
+    "collector_number": "197",
+    "type_line": "Creature — Fungus Dinosaur",
+    "mana_cost": "{3}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/f/6f80ad09-ebff-47cb-93ab-9bc7e0e10056.jpg?1559596720",
+    "image_small": "https://cards.scryfall.io/small/front/6/f/6f80ad09-ebff-47cb-93ab-9bc7e0e10056.jpg?1559596720",
+    "price_usd": "0.78",
+    "tcgplayer_id": 1428,
+    "price_market": "0.78",
+    "price_median": null
+  },
+  {
+    "id": "6c36ac7d-2ff0-4350-9b10-968f94b19842",
+    "name": "Gaea's Liege",
+    "collector_number": "198",
+    "type_line": "Creature — Avatar",
+    "mana_cost": "{3}{G}{G}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6c36ac7d-2ff0-4350-9b10-968f94b19842.jpg?1559596908",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6c36ac7d-2ff0-4350-9b10-968f94b19842.jpg?1559596908",
+    "price_usd": "1.40",
+    "tcgplayer_id": 1429,
+    "price_market": "1.40",
+    "price_median": null
+  },
+  {
+    "id": "d33fe386-d165-4874-aa6b-07b7df9b6209",
+    "name": "Giant Growth",
+    "collector_number": "199",
+    "type_line": "Instant",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/3/d33fe386-d165-4874-aa6b-07b7df9b6209.jpg?1559596616",
+    "image_small": "https://cards.scryfall.io/small/front/d/3/d33fe386-d165-4874-aa6b-07b7df9b6209.jpg?1559596616",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1430,
+    "price_market": "0.23",
+    "price_median": null
+  },
+  {
+    "id": "5440ff00-e7fa-46ac-b46c-3fa4e10712b0",
+    "name": "Giant Spider",
+    "collector_number": "200",
+    "type_line": "Creature — Spider",
+    "mana_cost": "{3}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/4/5440ff00-e7fa-46ac-b46c-3fa4e10712b0.jpg?1559596627",
+    "image_small": "https://cards.scryfall.io/small/front/5/4/5440ff00-e7fa-46ac-b46c-3fa4e10712b0.jpg?1559596627",
+    "price_usd": "0.13",
+    "tcgplayer_id": 1431,
+    "price_market": "0.13",
+    "price_median": null
+  },
+  {
+    "id": "886959ca-83fd-4b50-a99a-08ef0c5415db",
+    "name": "Grizzly Bears",
+    "collector_number": "201",
+    "type_line": "Creature — Bear",
+    "mana_cost": "{1}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/8/886959ca-83fd-4b50-a99a-08ef0c5415db.jpg?1559596891",
+    "image_small": "https://cards.scryfall.io/small/front/8/8/886959ca-83fd-4b50-a99a-08ef0c5415db.jpg?1559596891",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1439,
+    "price_market": "0.21",
+    "price_median": null
+  },
+  {
+    "id": "bfba7442-ffdf-43cf-97b3-c69ff80e6fde",
+    "name": "Hurricane",
+    "collector_number": "202",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/f/bfba7442-ffdf-43cf-97b3-c69ff80e6fde.jpg?1559597120",
+    "image_small": "https://cards.scryfall.io/small/front/b/f/bfba7442-ffdf-43cf-97b3-c69ff80e6fde.jpg?1559597120",
+    "price_usd": "0.55",
+    "tcgplayer_id": 1450,
+    "price_market": "0.55",
+    "price_median": null
+  },
+  {
+    "id": "d919330b-5023-4b9c-b82f-20095354326c",
+    "name": "Instill Energy",
+    "collector_number": "203",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/9/d919330b-5023-4b9c-b82f-20095354326c.jpg?1559597119",
+    "image_small": "https://cards.scryfall.io/small/front/d/9/d919330b-5023-4b9c-b82f-20095354326c.jpg?1559597119",
+    "price_usd": "1.78",
+    "tcgplayer_id": 1452,
+    "price_market": "1.78",
+    "price_median": null
+  },
+  {
+    "id": "6e6cfaae-ea9e-4c54-858e-381f8bf441a9",
+    "name": "Ironroot Treefolk",
+    "collector_number": "204",
+    "type_line": "Creature — Treefolk",
+    "mana_cost": "{4}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/e/6e6cfaae-ea9e-4c54-858e-381f8bf441a9.jpg?1559596619",
+    "image_small": "https://cards.scryfall.io/small/front/6/e/6e6cfaae-ea9e-4c54-858e-381f8bf441a9.jpg?1559596619",
+    "price_usd": "0.12",
+    "tcgplayer_id": 1454,
+    "price_market": "0.12",
+    "price_median": null
+  },
+  {
+    "id": "b1466b4c-407d-4220-b5ee-474d7d8a24a7",
+    "name": "Kudzu",
+    "collector_number": "205",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{G}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/1/b1466b4c-407d-4220-b5ee-474d7d8a24a7.jpg?1559596773",
+    "image_small": "https://cards.scryfall.io/small/front/b/1/b1466b4c-407d-4220-b5ee-474d7d8a24a7.jpg?1559596773",
+    "price_usd": "2.05",
+    "tcgplayer_id": 1472,
+    "price_market": "2.05",
+    "price_median": null
+  },
+  {
+    "id": "ea2c2bf3-357d-4595-9b24-3451bd2d0179",
+    "name": "Ley Druid",
+    "collector_number": "206",
+    "type_line": "Creature — Human Druid",
+    "mana_cost": "{2}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/a/ea2c2bf3-357d-4595-9b24-3451bd2d0179.jpg?1559596771",
+    "image_small": "https://cards.scryfall.io/small/front/e/a/ea2c2bf3-357d-4595-9b24-3451bd2d0179.jpg?1559596771",
+    "price_usd": "0.27",
+    "tcgplayer_id": 1474,
+    "price_market": "0.27",
+    "price_median": null
+  },
+  {
+    "id": "ca28f9ec-897a-46fd-8e3d-16330ad43d24",
+    "name": "Lifeforce",
+    "collector_number": "207",
+    "type_line": "Enchantment",
+    "mana_cost": "{G}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/a/ca28f9ec-897a-46fd-8e3d-16330ad43d24.jpg?1559596805",
+    "image_small": "https://cards.scryfall.io/small/front/c/a/ca28f9ec-897a-46fd-8e3d-16330ad43d24.jpg?1559596805",
+    "price_usd": "0.33",
+    "tcgplayer_id": 1476,
+    "price_market": "0.33",
+    "price_median": null
+  },
+  {
+    "id": "5fc40d6f-1f1c-4f50-8971-9de5f477038b",
+    "name": "Lifelace",
+    "collector_number": "208",
+    "type_line": "Instant",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/f/5fc40d6f-1f1c-4f50-8971-9de5f477038b.jpg?1559596652",
+    "image_small": "https://cards.scryfall.io/small/front/5/f/5fc40d6f-1f1c-4f50-8971-9de5f477038b.jpg?1559596652",
+    "price_usd": "0.49",
+    "tcgplayer_id": 1477,
+    "price_market": "0.49",
+    "price_median": null
+  },
+  {
+    "id": "e62fec16-b5a0-47a6-9ccf-cebe79043627",
+    "name": "Living Artifact",
+    "collector_number": "209",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/6/e62fec16-b5a0-47a6-9ccf-cebe79043627.jpg?1559596784",
+    "image_small": "https://cards.scryfall.io/small/front/e/6/e62fec16-b5a0-47a6-9ccf-cebe79043627.jpg?1559596784",
+    "price_usd": "0.53",
+    "tcgplayer_id": 1480,
+    "price_market": "0.53",
+    "price_median": null
+  },
+  {
+    "id": "aa710039-5378-440c-b584-e9d72d1683c9",
+    "name": "Living Lands",
+    "collector_number": "210",
+    "type_line": "Enchantment",
+    "mana_cost": "{3}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/a/aa710039-5378-440c-b584-e9d72d1683c9.jpg?1559597098",
+    "image_small": "https://cards.scryfall.io/small/front/a/a/aa710039-5378-440c-b584-e9d72d1683c9.jpg?1559597098",
+    "price_usd": "0.89",
+    "tcgplayer_id": 1481,
+    "price_market": "0.89",
+    "price_median": null
+  },
+  {
+    "id": "6d6deae3-3ed4-47eb-bf4a-4a766ce18135",
+    "name": "Llanowar Elves",
+    "collector_number": "211",
+    "type_line": "Creature — Elf Druid",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/d/6d6deae3-3ed4-47eb-bf4a-4a766ce18135.jpg?1559596594",
+    "image_small": "https://cards.scryfall.io/small/front/6/d/6d6deae3-3ed4-47eb-bf4a-4a766ce18135.jpg?1559596594",
+    "price_usd": "1.47",
+    "tcgplayer_id": 1483,
+    "price_market": "1.47",
+    "price_median": null
+  },
+  {
+    "id": "3561cc9a-9270-4c75-90ca-1425b2724abc",
+    "name": "Lure",
+    "collector_number": "212",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{G}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/5/3561cc9a-9270-4c75-90ca-1425b2724abc.jpg?1559596770",
+    "image_small": "https://cards.scryfall.io/small/front/3/5/3561cc9a-9270-4c75-90ca-1425b2724abc.jpg?1559596770",
+    "price_usd": "0.34",
+    "tcgplayer_id": 1486,
+    "price_market": "0.34",
+    "price_median": null
+  },
+  {
+    "id": "6cd37ba7-b821-444e-b31b-aa667a8914e9",
+    "name": "Regeneration",
+    "collector_number": "213",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{1}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6cd37ba7-b821-444e-b31b-aa667a8914e9.jpg?1559596894",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6cd37ba7-b821-444e-b31b-aa667a8914e9.jpg?1559596894",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1539,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "396aae79-41d5-4b16-8903-5af8fde65eee",
+    "name": "Regrowth",
+    "collector_number": "214",
+    "type_line": "Sorcery",
+    "mana_cost": "{1}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/9/396aae79-41d5-4b16-8903-5af8fde65eee.jpg?1559596710",
+    "image_small": "https://cards.scryfall.io/small/front/3/9/396aae79-41d5-4b16-8903-5af8fde65eee.jpg?1559596710",
+    "price_usd": "1.22",
+    "tcgplayer_id": 1540,
+    "price_market": "1.22",
+    "price_median": null
+  },
+  {
+    "id": "1b9e1d37-47cd-41d7-9fee-b8504c689462",
+    "name": "Scryb Sprites",
+    "collector_number": "215",
+    "type_line": "Creature — Faerie",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/b/1b9e1d37-47cd-41d7-9fee-b8504c689462.jpg?1559596737",
+    "image_small": "https://cards.scryfall.io/small/front/1/b/1b9e1d37-47cd-41d7-9fee-b8504c689462.jpg?1559596737",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1557,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "bf1889aa-59e9-4d67-ab53-9aec071ab67a",
+    "name": "Shanodin Dryads",
+    "collector_number": "216",
+    "type_line": "Creature — Nymph Dryad",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/f/bf1889aa-59e9-4d67-ab53-9aec071ab67a.jpg?1559596793",
+    "image_small": "https://cards.scryfall.io/small/front/b/f/bf1889aa-59e9-4d67-ab53-9aec071ab67a.jpg?1559596793",
+    "price_usd": "0.14",
+    "tcgplayer_id": 1563,
+    "price_market": "0.14",
+    "price_median": null
+  },
+  {
+    "id": "bab7e4b7-acdd-4316-ae64-b182e4d9cacd",
+    "name": "Stream of Life",
+    "collector_number": "217",
+    "type_line": "Sorcery",
+    "mana_cost": "{X}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/a/bab7e4b7-acdd-4316-ae64-b182e4d9cacd.jpg?1559596667",
+    "image_small": "https://cards.scryfall.io/small/front/b/a/bab7e4b7-acdd-4316-ae64-b182e4d9cacd.jpg?1559596667",
+    "price_usd": "0.19",
+    "tcgplayer_id": 1579,
+    "price_market": "0.19",
+    "price_median": null
+  },
+  {
+    "id": "05a60435-7b5e-47c1-8186-1ca30a243992",
+    "name": "Thicket Basilisk",
+    "collector_number": "218",
+    "type_line": "Creature — Basilisk",
+    "mana_cost": "{3}{G}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/5/05a60435-7b5e-47c1-8186-1ca30a243992.jpg?1559597116",
+    "image_small": "https://cards.scryfall.io/small/front/0/5/05a60435-7b5e-47c1-8186-1ca30a243992.jpg?1559597116",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1589,
+    "price_market": "0.28",
+    "price_median": null
+  },
+  {
+    "id": "3aea108b-367b-43d9-b50d-c18954b2a82d",
+    "name": "Timber Wolves",
+    "collector_number": "219",
+    "type_line": "Creature — Wolf",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Melissa A. Benson",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3aea108b-367b-43d9-b50d-c18954b2a82d.jpg?1559596963",
+    "image_small": "https://cards.scryfall.io/small/front/3/a/3aea108b-367b-43d9-b50d-c18954b2a82d.jpg?1559596963",
+    "price_usd": "1.18",
+    "tcgplayer_id": 1592,
+    "price_market": "1.18",
+    "price_median": null
+  },
+  {
+    "id": "c022abd7-bb1a-4f61-b4e1-6b802d337484",
+    "name": "Titania's Song",
+    "collector_number": "220",
+    "type_line": "Enchantment",
+    "mana_cost": "{3}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Kerstin Kaman",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/0/c022abd7-bb1a-4f61-b4e1-6b802d337484.jpg?1559596844",
+    "image_small": "https://cards.scryfall.io/small/front/c/0/c022abd7-bb1a-4f61-b4e1-6b802d337484.jpg?1559596844",
+    "price_usd": "0.96",
+    "tcgplayer_id": 1593,
+    "price_market": "0.96",
+    "price_median": null
+  },
+  {
+    "id": "5722c349-bf3d-4ac0-8fdd-bf170401c419",
+    "name": "Tranquility",
+    "collector_number": "221",
+    "type_line": "Sorcery",
+    "mana_cost": "{2}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/7/5722c349-bf3d-4ac0-8fdd-bf170401c419.jpg?1559596903",
+    "image_small": "https://cards.scryfall.io/small/front/5/7/5722c349-bf3d-4ac0-8fdd-bf170401c419.jpg?1559596903",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1594,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "6a578955-7f77-42f1-a3e3-5e2b46216c43",
+    "name": "Tsunami",
+    "collector_number": "222",
+    "type_line": "Sorcery",
+    "mana_cost": "{3}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/a/6a578955-7f77-42f1-a3e3-5e2b46216c43.jpg?1559596842",
+    "image_small": "https://cards.scryfall.io/small/front/6/a/6a578955-7f77-42f1-a3e3-5e2b46216c43.jpg?1559596842",
+    "price_usd": "0.32",
+    "tcgplayer_id": 1596,
+    "price_market": "0.32",
+    "price_median": null
+  },
+  {
+    "id": "354de08d-41a8-4d6c-85d6-2413393ac181",
+    "name": "Verduran Enchantress",
+    "collector_number": "223",
+    "type_line": "Creature — Human Druid",
+    "mana_cost": "{1}{G}{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Kev Brockschmidt",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/5/354de08d-41a8-4d6c-85d6-2413393ac181.jpg?1559597110",
+    "image_small": "https://cards.scryfall.io/small/front/3/5/354de08d-41a8-4d6c-85d6-2413393ac181.jpg?1559597110",
+    "price_usd": "2.08",
+    "tcgplayer_id": 1604,
+    "price_market": "2.08",
+    "price_median": null
+  },
+  {
+    "id": "b27862c3-8589-41ab-8f84-34727e5a93be",
+    "name": "Wall of Brambles",
+    "collector_number": "224",
+    "type_line": "Creature — Plant Wall",
+    "mana_cost": "{2}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/2/b27862c3-8589-41ab-8f84-34727e5a93be.jpg?1559596577",
+    "image_small": "https://cards.scryfall.io/small/front/b/2/b27862c3-8589-41ab-8f84-34727e5a93be.jpg?1559596577",
+    "price_usd": "0.24",
+    "tcgplayer_id": 1611,
+    "price_market": "0.24",
+    "price_median": null
+  },
+  {
+    "id": "b0af9d4c-b3e5-4953-b4ca-7f34f67bdbeb",
+    "name": "Wall of Ice",
+    "collector_number": "225",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{2}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/0/b0af9d4c-b3e5-4953-b4ca-7f34f67bdbeb.jpg?1587931121",
+    "image_small": "https://cards.scryfall.io/small/front/b/0/b0af9d4c-b3e5-4953-b4ca-7f34f67bdbeb.jpg?1587931121",
+    "price_usd": "0.35",
+    "tcgplayer_id": 1613,
+    "price_market": "0.35",
+    "price_median": null
+  },
+  {
+    "id": "9d4f8eb6-2c3c-49e7-a41d-33c138d853c9",
+    "name": "Wall of Wood",
+    "collector_number": "226",
+    "type_line": "Creature — Wall",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/d/9d4f8eb6-2c3c-49e7-a41d-33c138d853c9.jpg?1559596829",
+    "image_small": "https://cards.scryfall.io/small/front/9/d/9d4f8eb6-2c3c-49e7-a41d-33c138d853c9.jpg?1559596829",
+    "price_usd": "0.12",
+    "tcgplayer_id": 1617,
+    "price_market": "0.12",
+    "price_median": null
+  },
+  {
+    "id": "3fd08a5d-0dad-4bce-86c0-dea431038859",
+    "name": "Wanderlust",
+    "collector_number": "227",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{2}{G}",
+    "rarity": "uncommon",
+    "colors": [
+      "G"
+    ],
+    "artist": "Cornelius Brudi",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/f/3fd08a5d-0dad-4bce-86c0-dea431038859.jpg?1559596906",
+    "image_small": "https://cards.scryfall.io/small/front/3/f/3fd08a5d-0dad-4bce-86c0-dea431038859.jpg?1559596906",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1618,
+    "price_market": "0.28",
+    "price_median": null
+  },
+  {
+    "id": "5c99e36f-b11d-4270-8b88-66be8907c9bd",
+    "name": "War Mammoth",
+    "collector_number": "228",
+    "type_line": "Creature — Elephant",
+    "mana_cost": "{3}{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Jeff A. Menges",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/c/5c99e36f-b11d-4270-8b88-66be8907c9bd.jpg?1559596828",
+    "image_small": "https://cards.scryfall.io/small/front/5/c/5c99e36f-b11d-4270-8b88-66be8907c9bd.jpg?1559596828",
+    "price_usd": "0.16",
+    "tcgplayer_id": 1619,
+    "price_market": "0.16",
+    "price_median": null
+  },
+  {
+    "id": "00012bd8-ed68-4978-a22d-f450c8a6e048",
+    "name": "Web",
+    "collector_number": "229",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{G}",
+    "rarity": "rare",
+    "colors": [
+      "G"
+    ],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/0/00012bd8-ed68-4978-a22d-f450c8a6e048.jpg?1559596693",
+    "image_small": "https://cards.scryfall.io/small/front/0/0/00012bd8-ed68-4978-a22d-f450c8a6e048.jpg?1559596693",
+    "price_usd": "0.88",
+    "tcgplayer_id": 1623,
+    "price_market": "0.88",
+    "price_median": null
+  },
+  {
+    "id": "8000c8f8-d4c3-4dbc-a73e-9b82b0478061",
+    "name": "Wild Growth",
+    "collector_number": "230",
+    "type_line": "Enchantment — Aura",
+    "mana_cost": "{G}",
+    "rarity": "common",
+    "colors": [
+      "G"
+    ],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/0/8000c8f8-d4c3-4dbc-a73e-9b82b0478061.jpg?1559596916",
+    "image_small": "https://cards.scryfall.io/small/front/8/0/8000c8f8-d4c3-4dbc-a73e-9b82b0478061.jpg?1559596916",
+    "price_usd": "0.50",
+    "tcgplayer_id": 1627,
+    "price_market": "0.50",
+    "price_median": null
+  },
+  {
+    "id": "2c7e444a-dba1-406f-bfdc-1a54102083a8",
+    "name": "Aladdin's Lamp",
+    "collector_number": "231",
+    "type_line": "Artifact",
+    "mana_cost": "{10}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/c/2c7e444a-dba1-406f-bfdc-1a54102083a8.jpg?1559596815",
+    "image_small": "https://cards.scryfall.io/small/front/2/c/2c7e444a-dba1-406f-bfdc-1a54102083a8.jpg?1559596815",
+    "price_usd": "0.85",
+    "tcgplayer_id": 1328,
+    "price_market": "0.85",
+    "price_median": null
+  },
+  {
+    "id": "40cb7c36-135b-40d0-bc7b-62fbcd508f49",
+    "name": "Aladdin's Ring",
+    "collector_number": "232",
+    "type_line": "Artifact",
+    "mana_cost": "{8}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/0/40cb7c36-135b-40d0-bc7b-62fbcd508f49.jpg?1593864250",
+    "image_small": "https://cards.scryfall.io/small/front/4/0/40cb7c36-135b-40d0-bc7b-62fbcd508f49.jpg?1593864250",
+    "price_usd": "0.85",
+    "tcgplayer_id": 1329,
+    "price_market": "0.85",
+    "price_median": null
+  },
+  {
+    "id": "617599f1-69d9-4767-9656-982739728df0",
+    "name": "Ankh of Mishra",
+    "collector_number": "233",
+    "type_line": "Artifact",
+    "mana_cost": "{2}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/1/617599f1-69d9-4767-9656-982739728df0.jpg?1559597173",
+    "image_small": "https://cards.scryfall.io/small/front/6/1/617599f1-69d9-4767-9656-982739728df0.jpg?1559597173",
+    "price_usd": "7.16",
+    "tcgplayer_id": 1333,
+    "price_market": "7.16",
+    "price_median": null
+  },
+  {
+    "id": "ee486c26-f0bc-4275-ab1b-a9e57721f036",
+    "name": "Armageddon Clock",
+    "collector_number": "234",
+    "type_line": "Artifact",
+    "mana_cost": "{6}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/e/ee486c26-f0bc-4275-ab1b-a9e57721f036.jpg?1559596876",
+    "image_small": "https://cards.scryfall.io/small/front/e/e/ee486c26-f0bc-4275-ab1b-a9e57721f036.jpg?1559596876",
+    "price_usd": "1.17",
+    "tcgplayer_id": 1335,
+    "price_market": "1.17",
+    "price_median": null
+  },
+  {
+    "id": "4f0b7b8e-45b0-4947-9a95-bccc6b725a37",
+    "name": "Basalt Monolith",
+    "collector_number": "235",
+    "type_line": "Artifact",
+    "mana_cost": "{3}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/f/4f0b7b8e-45b0-4947-9a95-bccc6b725a37.jpg?1559596874",
+    "image_small": "https://cards.scryfall.io/small/front/4/f/4f0b7b8e-45b0-4947-9a95-bccc6b725a37.jpg?1559596874",
+    "price_usd": "5.05",
+    "tcgplayer_id": 1341,
+    "price_market": "5.05",
+    "price_median": null
+  },
+  {
+    "id": "1bae1867-d5bb-4204-9fb1-59d6663bc161",
+    "name": "Black Vise",
+    "collector_number": "236",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/b/1bae1867-d5bb-4204-9fb1-59d6663bc161.jpg?1559596871",
+    "image_small": "https://cards.scryfall.io/small/front/1/b/1bae1867-d5bb-4204-9fb1-59d6663bc161.jpg?1559596871",
+    "price_usd": "1.29",
+    "tcgplayer_id": 1346,
+    "price_market": "1.29",
+    "price_median": null
+  },
+  {
+    "id": "6c1c2ea2-09ba-4a0e-b5b6-c06068f0da75",
+    "name": "Bottle of Suleiman",
+    "collector_number": "237",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/6/c/6c1c2ea2-09ba-4a0e-b5b6-c06068f0da75.jpg?1559596870",
+    "image_small": "https://cards.scryfall.io/small/front/6/c/6c1c2ea2-09ba-4a0e-b5b6-c06068f0da75.jpg?1559596870",
+    "price_usd": "0.87",
+    "tcgplayer_id": 1352,
+    "price_market": "0.87",
+    "price_median": null
+  },
+  {
+    "id": "0ba1daee-a5ac-4d9e-b681-3e3c7a3eb095",
+    "name": "Brass Man",
+    "collector_number": "238",
+    "type_line": "Artifact Creature — Construct",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/b/0ba1daee-a5ac-4d9e-b681-3e3c7a3eb095.jpg?1559596988",
+    "image_small": "https://cards.scryfall.io/small/front/0/b/0ba1daee-a5ac-4d9e-b681-3e3c7a3eb095.jpg?1559596988",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1354,
+    "price_market": "0.21",
+    "price_median": null
+  },
+  {
+    "id": "2bc5e073-2903-4a28-9c23-07a0482ae09a",
+    "name": "Celestial Prism",
+    "collector_number": "239",
+    "type_line": "Artifact",
+    "mana_cost": "{3}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/b/2bc5e073-2903-4a28-9c23-07a0482ae09a.jpg?1559596867",
+    "image_small": "https://cards.scryfall.io/small/front/2/b/2bc5e073-2903-4a28-9c23-07a0482ae09a.jpg?1559596867",
+    "price_usd": "0.21",
+    "tcgplayer_id": 1357,
+    "price_market": "0.21",
+    "price_median": null
+  },
+  {
+    "id": "8224d6e3-c9de-4129-ae3e-300a82c4bd00",
+    "name": "Clockwork Beast",
+    "collector_number": "240",
+    "type_line": "Artifact Creature — Beast",
+    "mana_cost": "{6}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Drew Tucker",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/2/8224d6e3-c9de-4129-ae3e-300a82c4bd00.jpg?1559596956",
+    "image_small": "https://cards.scryfall.io/small/front/8/2/8224d6e3-c9de-4129-ae3e-300a82c4bd00.jpg?1559596956",
+    "price_usd": "0.72",
+    "tcgplayer_id": 1365,
+    "price_market": "0.72",
+    "price_median": null
+  },
+  {
+    "id": "2e7d8bc5-9d87-43e3-9b81-311d01fdf0e5",
+    "name": "Conservator",
+    "collector_number": "241",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/e/2e7d8bc5-9d87-43e3-9b81-311d01fdf0e5.jpg?1559596960",
+    "image_small": "https://cards.scryfall.io/small/front/2/e/2e7d8bc5-9d87-43e3-9b81-311d01fdf0e5.jpg?1559596960",
+    "price_usd": "0.24",
+    "tcgplayer_id": 1368,
+    "price_market": "0.24",
+    "price_median": null
+  },
+  {
+    "id": "f973046b-ce81-4e35-89f3-a6e857d751b8",
+    "name": "Crystal Rod",
+    "collector_number": "242",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/9/f973046b-ce81-4e35-89f3-a6e857d751b8.jpg?1559597164",
+    "image_small": "https://cards.scryfall.io/small/front/f/9/f973046b-ce81-4e35-89f3-a6e857d751b8.jpg?1559597164",
+    "price_usd": "0.26",
+    "tcgplayer_id": 1378,
+    "price_market": "0.26",
+    "price_median": null
+  },
+  {
+    "id": "e3d92537-7934-4191-8836-2f61ff6ab2fa",
+    "name": "Dancing Scimitar",
+    "collector_number": "243",
+    "type_line": "Artifact Creature — Spirit",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/3/e3d92537-7934-4191-8836-2f61ff6ab2fa.jpg?1559596855",
+    "image_small": "https://cards.scryfall.io/small/front/e/3/e3d92537-7934-4191-8836-2f61ff6ab2fa.jpg?1559596855",
+    "price_usd": "1.95",
+    "tcgplayer_id": 1380,
+    "price_market": "1.95",
+    "price_median": null
+  },
+  {
+    "id": "ce56c997-202c-4175-809b-2dd65cd2ab2a",
+    "name": "Dingus Egg",
+    "collector_number": "244",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/e/ce56c997-202c-4175-809b-2dd65cd2ab2a.jpg?1559596607",
+    "image_small": "https://cards.scryfall.io/small/front/c/e/ce56c997-202c-4175-809b-2dd65cd2ab2a.jpg?1559596607",
+    "price_usd": "1.61",
+    "tcgplayer_id": 1390,
+    "price_market": "1.61",
+    "price_median": null
+  },
+  {
+    "id": "af4f8926-9a9e-4b2d-8224-118655f12809",
+    "name": "Disrupting Scepter",
+    "collector_number": "245",
+    "type_line": "Artifact",
+    "mana_cost": "{3}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/f/af4f8926-9a9e-4b2d-8224-118655f12809.jpg?1559597156",
+    "image_small": "https://cards.scryfall.io/small/front/a/f/af4f8926-9a9e-4b2d-8224-118655f12809.jpg?1559597156",
+    "price_usd": "1.07",
+    "tcgplayer_id": 1393,
+    "price_market": "1.07",
+    "price_median": null
+  },
+  {
+    "id": "42c1fd91-001d-4c94-bb0a-d3fc570c7f12",
+    "name": "Dragon Engine",
+    "collector_number": "246",
+    "type_line": "Artifact Creature — Construct",
+    "mana_cost": "{3}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/2/42c1fd91-001d-4c94-bb0a-d3fc570c7f12.jpg?1559596850",
+    "image_small": "https://cards.scryfall.io/small/front/4/2/42c1fd91-001d-4c94-bb0a-d3fc570c7f12.jpg?1559596850",
+    "price_usd": "0.65",
+    "tcgplayer_id": 1394,
+    "price_market": "0.65",
+    "price_median": null
+  },
+  {
+    "id": "396360d2-3604-499c-9fc3-75b75970c047",
+    "name": "Ebony Horse",
+    "collector_number": "247",
+    "type_line": "Artifact",
+    "mana_cost": "{3}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/9/396360d2-3604-499c-9fc3-75b75970c047.jpg?1559597134",
+    "image_small": "https://cards.scryfall.io/small/front/3/9/396360d2-3604-499c-9fc3-75b75970c047.jpg?1559597134",
+    "price_usd": "0.62",
+    "tcgplayer_id": 1404,
+    "price_market": "0.62",
+    "price_median": null
+  },
+  {
+    "id": "7e46b461-a38e-44f8-8e15-7cefe8aea46a",
+    "name": "Flying Carpet",
+    "collector_number": "248",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/e/7e46b461-a38e-44f8-8e15-7cefe8aea46a.jpg?1559596614",
+    "image_small": "https://cards.scryfall.io/small/front/7/e/7e46b461-a38e-44f8-8e15-7cefe8aea46a.jpg?1559596614",
+    "price_usd": "0.68",
+    "tcgplayer_id": 1420,
+    "price_market": "0.68",
+    "price_median": null
+  },
+  {
+    "id": "a7d975c6-ca94-4255-8ac5-56113da9f97e",
+    "name": "Glasses of Urza",
+    "collector_number": "249",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/7/a7d975c6-ca94-4255-8ac5-56113da9f97e.jpg?1559596812",
+    "image_small": "https://cards.scryfall.io/small/front/a/7/a7d975c6-ca94-4255-8ac5-56113da9f97e.jpg?1559596812",
+    "price_usd": "1.35",
+    "tcgplayer_id": 1432,
+    "price_market": "1.35",
+    "price_median": null
+  },
+  {
+    "id": "1a3068eb-2250-4c7b-8ed5-2366ff6cd0e1",
+    "name": "Helm of Chatzuk",
+    "collector_number": "250",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/a/1a3068eb-2250-4c7b-8ed5-2366ff6cd0e1.jpg?1559596625",
+    "image_small": "https://cards.scryfall.io/small/front/1/a/1a3068eb-2250-4c7b-8ed5-2366ff6cd0e1.jpg?1559596625",
+    "price_usd": "0.86",
+    "tcgplayer_id": 1442,
+    "price_market": "0.86",
+    "price_median": null
+  },
+  {
+    "id": "fc6fbf54-698d-4a99-ad98-b0115df403a0",
+    "name": "Howling Mine",
+    "collector_number": "251",
+    "type_line": "Artifact",
+    "mana_cost": "{2}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/c/fc6fbf54-698d-4a99-ad98-b0115df403a0.jpg?1559596679",
+    "image_small": "https://cards.scryfall.io/small/front/f/c/fc6fbf54-698d-4a99-ad98-b0115df403a0.jpg?1559596679",
+    "price_usd": "8.26",
+    "tcgplayer_id": 1447,
+    "price_market": "8.26",
+    "price_median": null
+  },
+  {
+    "id": "5ffb4de8-505e-4e83-8a8b-05c968a03f04",
+    "name": "Iron Star",
+    "collector_number": "252",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/f/5ffb4de8-505e-4e83-8a8b-05c968a03f04.jpg?1559597117",
+    "image_small": "https://cards.scryfall.io/small/front/5/f/5ffb4de8-505e-4e83-8a8b-05c968a03f04.jpg?1559597117",
+    "price_usd": "0.20",
+    "tcgplayer_id": 1453,
+    "price_market": "0.20",
+    "price_median": null
+  },
+  {
+    "id": "b1dd930a-a7d8-4cdd-9c4f-78b2b249ce38",
+    "name": "Ivory Cup",
+    "collector_number": "253",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/1/b1dd930a-a7d8-4cdd-9c4f-78b2b249ce38.jpg?1559596817",
+    "image_small": "https://cards.scryfall.io/small/front/b/1/b1dd930a-a7d8-4cdd-9c4f-78b2b249ce38.jpg?1559596817",
+    "price_usd": "0.29",
+    "tcgplayer_id": 1460,
+    "price_market": "0.29",
+    "price_median": null
+  },
+  {
+    "id": "2bd6f6a8-153f-4263-941a-e3387c2a22ad",
+    "name": "Ivory Tower",
+    "collector_number": "254",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Margaret Organ-Kean",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/b/2bd6f6a8-153f-4263-941a-e3387c2a22ad.jpg?1559596966",
+    "image_small": "https://cards.scryfall.io/small/front/2/b/2bd6f6a8-153f-4263-941a-e3387c2a22ad.jpg?1559596966",
+    "price_usd": "3.16",
+    "tcgplayer_id": 1461,
+    "price_market": "3.16",
+    "price_median": null
+  },
+  {
+    "id": "4ff44808-a1a9-4173-a39c-d726c51490fb",
+    "name": "Jade Monolith",
+    "collector_number": "255",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/f/4ff44808-a1a9-4173-a39c-d726c51490fb.jpg?1559596904",
+    "image_small": "https://cards.scryfall.io/small/front/4/f/4ff44808-a1a9-4173-a39c-d726c51490fb.jpg?1559596904",
+    "price_usd": "0.63",
+    "tcgplayer_id": 1462,
+    "price_market": "0.63",
+    "price_median": null
+  },
+  {
+    "id": "2b56c9ed-c912-4829-9be0-e80303759c9c",
+    "name": "Jandor's Ring",
+    "collector_number": "256",
+    "type_line": "Artifact",
+    "mana_cost": "{6}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/b/2b56c9ed-c912-4829-9be0-e80303759c9c.jpg?1559596591",
+    "image_small": "https://cards.scryfall.io/small/front/2/b/2b56c9ed-c912-4829-9be0-e80303759c9c.jpg?1559596591",
+    "price_usd": "0.61",
+    "tcgplayer_id": 1463,
+    "price_market": "0.61",
+    "price_median": null
+  },
+  {
+    "id": "af96e332-1c77-4650-b66b-417e6c47bc3b",
+    "name": "Jandor's Saddlebags",
+    "collector_number": "257",
+    "type_line": "Artifact",
+    "mana_cost": "{2}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/f/af96e332-1c77-4650-b66b-417e6c47bc3b.jpg?1559596888",
+    "image_small": "https://cards.scryfall.io/small/front/a/f/af96e332-1c77-4650-b66b-417e6c47bc3b.jpg?1559596888",
+    "price_usd": "2.86",
+    "tcgplayer_id": 1464,
+    "price_market": "2.86",
+    "price_median": null
+  },
+  {
+    "id": "e8661e0a-faf8-4c16-b988-55622707de6f",
+    "name": "Jayemdae Tome",
+    "collector_number": "258",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/8/e8661e0a-faf8-4c16-b988-55622707de6f.jpg?1559596776",
+    "image_small": "https://cards.scryfall.io/small/front/e/8/e8661e0a-faf8-4c16-b988-55622707de6f.jpg?1559596776",
+    "price_usd": "2.47",
+    "tcgplayer_id": 1465,
+    "price_market": "2.47",
+    "price_median": null
+  },
+  {
+    "id": "490fafd4-3cd0-4cd8-9f07-01a92121d39d",
+    "name": "Juggernaut",
+    "collector_number": "259",
+    "type_line": "Artifact Creature — Juggernaut",
+    "mana_cost": "{4}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/9/490fafd4-3cd0-4cd8-9f07-01a92121d39d.jpg?1559596592",
+    "image_small": "https://cards.scryfall.io/small/front/4/9/490fafd4-3cd0-4cd8-9f07-01a92121d39d.jpg?1559596592",
+    "price_usd": "0.61",
+    "tcgplayer_id": 1466,
+    "price_market": "0.61",
+    "price_median": null
+  },
+  {
+    "id": "7071d294-842c-4539-aba1-c68cd5c79848",
+    "name": "Kormus Bell",
+    "collector_number": "260",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/7/0/7071d294-842c-4539-aba1-c68cd5c79848.jpg?1559596901",
+    "image_small": "https://cards.scryfall.io/small/front/7/0/7071d294-842c-4539-aba1-c68cd5c79848.jpg?1559596901",
+    "price_usd": "2.62",
+    "tcgplayer_id": 1471,
+    "price_market": "2.62",
+    "price_median": null
+  },
+  {
+    "id": "0634ab23-4691-4c77-9b8f-bfd9d99b31a1",
+    "name": "Library of Leng",
+    "collector_number": "261",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Daniel Gelon",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/6/0634ab23-4691-4c77-9b8f-bfd9d99b31a1.jpg?1559596900",
+    "image_small": "https://cards.scryfall.io/small/front/0/6/0634ab23-4691-4c77-9b8f-bfd9d99b31a1.jpg?1559596900",
+    "price_usd": "4.88",
+    "tcgplayer_id": 1475,
+    "price_market": "4.88",
+    "price_median": null
+  },
+  {
+    "id": "516858c9-7679-4a65-a787-36a2cf175ede",
+    "name": "Living Wall",
+    "collector_number": "262",
+    "type_line": "Artifact Creature — Wall",
+    "mana_cost": "{4}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/1/516858c9-7679-4a65-a787-36a2cf175ede.jpg?1559596970",
+    "image_small": "https://cards.scryfall.io/small/front/5/1/516858c9-7679-4a65-a787-36a2cf175ede.jpg?1559596970",
+    "price_usd": "0.36",
+    "tcgplayer_id": 1482,
+    "price_market": "0.36",
+    "price_median": null
+  },
+  {
+    "id": "5cbc686e-a8ef-40de-b79a-803ef42f8384",
+    "name": "Mana Vault",
+    "collector_number": "263",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/c/5cbc686e-a8ef-40de-b79a-803ef42f8384.jpg?1559596660",
+    "image_small": "https://cards.scryfall.io/small/front/5/c/5cbc686e-a8ef-40de-b79a-803ef42f8384.jpg?1559596660",
+    "price_usd": "68.24",
+    "tcgplayer_id": 1492,
+    "price_market": "68.24",
+    "price_median": null
+  },
+  {
+    "id": "56854867-d135-4bed-8d3a-dcc24d757558",
+    "name": "Meekstone",
+    "collector_number": "264",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Quinton Hoover",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56854867-d135-4bed-8d3a-dcc24d757558.jpg?1559596597",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/56854867-d135-4bed-8d3a-dcc24d757558.jpg?1559596597",
+    "price_usd": "9.82",
+    "tcgplayer_id": 1494,
+    "price_market": "9.82",
+    "price_median": null
+  },
+  {
+    "id": "21aabfa6-c299-4cf8-b8b5-097ef6f4029a",
+    "name": "Millstone",
+    "collector_number": "265",
+    "type_line": "Artifact",
+    "mana_cost": "{2}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Kaja Foglio",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/1/21aabfa6-c299-4cf8-b8b5-097ef6f4029a.jpg?1559596598",
+    "image_small": "https://cards.scryfall.io/small/front/2/1/21aabfa6-c299-4cf8-b8b5-097ef6f4029a.jpg?1559596598",
+    "price_usd": "4.07",
+    "tcgplayer_id": 1498,
+    "price_market": "4.07",
+    "price_median": null
+  },
+  {
+    "id": "1a93e9bd-6c31-4363-93b0-b7d355bd2867",
+    "name": "Mishra's War Machine",
+    "collector_number": "266",
+    "type_line": "Artifact Creature — Juggernaut",
+    "mana_cost": "{7}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/a/1a93e9bd-6c31-4363-93b0-b7d355bd2867.jpg?1559596788",
+    "image_small": "https://cards.scryfall.io/small/front/1/a/1a93e9bd-6c31-4363-93b0-b7d355bd2867.jpg?1559596788",
+    "price_usd": "0.62",
+    "tcgplayer_id": 1500,
+    "price_market": "0.62",
+    "price_median": null
+  },
+  {
+    "id": "ba5fcfc5-0715-4c6c-8325-3b54a138634e",
+    "name": "Nevinyrral's Disk",
+    "collector_number": "267",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/a/ba5fcfc5-0715-4c6c-8325-3b54a138634e.jpg?1759731376",
+    "image_small": "https://cards.scryfall.io/small/front/b/a/ba5fcfc5-0715-4c6c-8325-3b54a138634e.jpg?1759731376",
+    "price_usd": "6.77",
+    "tcgplayer_id": 1507,
+    "price_market": "6.77",
+    "price_median": null
+  },
+  {
+    "id": "ef24fb75-49c7-48eb-a0b3-dc08d7f691ec",
+    "name": "Obsianus Golem",
+    "collector_number": "268",
+    "type_line": "Artifact Creature — Golem",
+    "mana_cost": "{6}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/e/f/ef24fb75-49c7-48eb-a0b3-dc08d7f691ec.jpg?1587915114",
+    "image_small": "https://cards.scryfall.io/small/front/e/f/ef24fb75-49c7-48eb-a0b3-dc08d7f691ec.jpg?1587915114",
+    "price_usd": "0.28",
+    "tcgplayer_id": 1510,
+    "price_market": "0.28",
+    "price_median": null
+  },
+  {
+    "id": "0d84e378-dc64-4e69-a49d-1c210ca3506c",
+    "name": "Onulet",
+    "collector_number": "269",
+    "type_line": "Artifact Creature — Construct",
+    "mana_cost": "{3}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/d/0d84e378-dc64-4e69-a49d-1c210ca3506c.jpg?1559596600",
+    "image_small": "https://cards.scryfall.io/small/front/0/d/0d84e378-dc64-4e69-a49d-1c210ca3506c.jpg?1559596600",
+    "price_usd": "0.54",
+    "tcgplayer_id": 1511,
+    "price_market": "0.54",
+    "price_median": null
+  },
+  {
+    "id": "b3654fd6-f8ac-471a-8559-ba4ed0fe75c3",
+    "name": "Ornithopter",
+    "collector_number": "270",
+    "type_line": "Artifact Creature — Thopter",
+    "mana_cost": "{0}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Amy Weber",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/3/b3654fd6-f8ac-471a-8559-ba4ed0fe75c3.jpg?1559596601",
+    "image_small": "https://cards.scryfall.io/small/front/b/3/b3654fd6-f8ac-471a-8559-ba4ed0fe75c3.jpg?1559596601",
+    "price_usd": "0.92",
+    "tcgplayer_id": 1514,
+    "price_market": "0.92",
+    "price_median": null
+  },
+  {
+    "id": "d057a91c-d2a7-48ec-aa16-f033499de166",
+    "name": "Primal Clay",
+    "collector_number": "271",
+    "type_line": "Artifact Creature — Shapeshifter",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Kaja Foglio",
+    "image_normal": "https://cards.scryfall.io/normal/front/d/0/d057a91c-d2a7-48ec-aa16-f033499de166.jpg?1559596579",
+    "image_small": "https://cards.scryfall.io/small/front/d/0/d057a91c-d2a7-48ec-aa16-f033499de166.jpg?1559596579",
+    "price_usd": "0.69",
+    "tcgplayer_id": 1531,
+    "price_market": "0.69",
+    "price_median": null
+  },
+  {
+    "id": "919f184b-421c-413c-a95c-05bb145f93ba",
+    "name": "Rocket Launcher",
+    "collector_number": "272",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Pete Venters",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/1/919f184b-421c-413c-a95c-05bb145f93ba.jpg?1559596585",
+    "image_small": "https://cards.scryfall.io/small/front/9/1/919f184b-421c-413c-a95c-05bb145f93ba.jpg?1559596585",
+    "price_usd": "1.11",
+    "tcgplayer_id": 1547,
+    "price_market": "1.11",
+    "price_median": null
+  },
+  {
+    "id": "964abd0f-812e-418d-a01b-73dc724c8429",
+    "name": "Rod of Ruin",
+    "collector_number": "273",
+    "type_line": "Artifact",
+    "mana_cost": "{4}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/6/964abd0f-812e-418d-a01b-73dc724c8429.jpg?1559596935",
+    "image_small": "https://cards.scryfall.io/small/front/9/6/964abd0f-812e-418d-a01b-73dc724c8429.jpg?1559596935",
+    "price_usd": "0.23",
+    "tcgplayer_id": 1548,
+    "price_market": "0.23",
+    "price_median": null
+  },
+  {
+    "id": "803fd65f-4ca6-4fe4-abc2-72aa32ebb3a5",
+    "name": "Sol Ring",
+    "collector_number": "274",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/0/803fd65f-4ca6-4fe4-abc2-72aa32ebb3a5.jpg?1559596727",
+    "image_small": "https://cards.scryfall.io/small/front/8/0/803fd65f-4ca6-4fe4-abc2-72aa32ebb3a5.jpg?1559596727",
+    "price_usd": "19.16",
+    "tcgplayer_id": 1571,
+    "price_market": "19.16",
+    "price_median": null
+  },
+  {
+    "id": "3a80be5d-cf6f-487d-8602-9396d9b6252b",
+    "name": "Soul Net",
+    "collector_number": "275",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Dameon Willich",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/a/3a80be5d-cf6f-487d-8602-9396d9b6252b.jpg?1559596980",
+    "image_small": "https://cards.scryfall.io/small/front/3/a/3a80be5d-cf6f-487d-8602-9396d9b6252b.jpg?1559596980",
+    "price_usd": "0.25",
+    "tcgplayer_id": 1573,
+    "price_market": "0.25",
+    "price_median": null
+  },
+  {
+    "id": "4babb2a9-b6b3-4a85-8add-90828726adb4",
+    "name": "Sunglasses of Urza",
+    "collector_number": "276",
+    "type_line": "Artifact",
+    "mana_cost": "{3}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/b/4babb2a9-b6b3-4a85-8add-90828726adb4.jpg?1559596588",
+    "image_small": "https://cards.scryfall.io/small/front/4/b/4babb2a9-b6b3-4a85-8add-90828726adb4.jpg?1559596588",
+    "price_usd": "1.36",
+    "tcgplayer_id": 1580,
+    "price_market": "1.36",
+    "price_median": null
+  },
+  {
+    "id": "09b82c6b-9b14-4607-95d5-2964b926ec37",
+    "name": "The Hive",
+    "collector_number": "277",
+    "type_line": "Artifact",
+    "mana_cost": "{5}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Sandra Everingham",
+    "image_normal": "https://cards.scryfall.io/normal/front/0/9/09b82c6b-9b14-4607-95d5-2964b926ec37.jpg?1559596808",
+    "image_small": "https://cards.scryfall.io/small/front/0/9/09b82c6b-9b14-4607-95d5-2964b926ec37.jpg?1559596808",
+    "price_usd": "0.85",
+    "tcgplayer_id": 1587,
+    "price_market": "0.85",
+    "price_median": null
+  },
+  {
+    "id": "2a600805-dd79-419d-9866-f8c29643f0f8",
+    "name": "The Rack",
+    "collector_number": "278",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Richard Thomas",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/a/2a600805-dd79-419d-9866-f8c29643f0f8.jpg?1559597114",
+    "image_small": "https://cards.scryfall.io/small/front/2/a/2a600805-dd79-419d-9866-f8c29643f0f8.jpg?1559597114",
+    "price_usd": "0.82",
+    "tcgplayer_id": 1588,
+    "price_market": "0.82",
+    "price_median": null
+  },
+  {
+    "id": "8b08a20c-59ee-4323-8a00-af88b82d6b76",
+    "name": "Throne of Bone",
+    "collector_number": "279",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Anson Maddocks",
+    "image_normal": "https://cards.scryfall.io/normal/front/8/b/8b08a20c-59ee-4323-8a00-af88b82d6b76.jpg?1559596664",
+    "image_small": "https://cards.scryfall.io/small/front/8/b/8b08a20c-59ee-4323-8a00-af88b82d6b76.jpg?1559596664",
+    "price_usd": "0.41",
+    "tcgplayer_id": 1591,
+    "price_market": "0.41",
+    "price_median": null
+  },
+  {
+    "id": "f5c6d64b-f49c-4b41-bd25-3d29c896a9a8",
+    "name": "Winter Orb",
+    "collector_number": "280",
+    "type_line": "Artifact",
+    "mana_cost": "{2}",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/f/5/f5c6d64b-f49c-4b41-bd25-3d29c896a9a8.jpg?1559596823",
+    "image_small": "https://cards.scryfall.io/small/front/f/5/f5c6d64b-f49c-4b41-bd25-3d29c896a9a8.jpg?1559596823",
+    "price_usd": "11.21",
+    "tcgplayer_id": 1629,
+    "price_market": "11.21",
+    "price_median": null
+  },
+  {
+    "id": "157a28e2-61f6-4c95-b377-e945fc8dade2",
+    "name": "Wooden Sphere",
+    "collector_number": "281",
+    "type_line": "Artifact",
+    "mana_cost": "{1}",
+    "rarity": "uncommon",
+    "colors": [],
+    "artist": "Mark Tedin",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/5/157a28e2-61f6-4c95-b377-e945fc8dade2.jpg?1559596822",
+    "image_small": "https://cards.scryfall.io/small/front/1/5/157a28e2-61f6-4c95-b377-e945fc8dade2.jpg?1559596822",
+    "price_usd": "0.24",
+    "tcgplayer_id": 1630,
+    "price_market": "0.24",
+    "price_median": null
+  },
+  {
+    "id": "56058359-3c0b-49db-a0ce-9ded4c3f4372",
+    "name": "Badlands",
+    "collector_number": "282",
+    "type_line": "Land — Swamp Mountain",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56058359-3c0b-49db-a0ce-9ded4c3f4372.jpg?1559596873",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/56058359-3c0b-49db-a0ce-9ded4c3f4372.jpg?1559596873",
+    "price_usd": "431.32",
+    "tcgplayer_id": 1339,
+    "price_market": "431.32",
+    "price_median": null
+  },
+  {
+    "id": "56355ff3-2232-4a11-b868-aec9a50b9ee5",
+    "name": "Bayou",
+    "collector_number": "283",
+    "type_line": "Land — Swamp Forest",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/6/56355ff3-2232-4a11-b868-aec9a50b9ee5.jpg?1559596800",
+    "image_small": "https://cards.scryfall.io/small/front/5/6/56355ff3-2232-4a11-b868-aec9a50b9ee5.jpg?1559596800",
+    "price_usd": "406.87",
+    "tcgplayer_id": 1342,
+    "price_market": "406.87",
+    "price_median": null
+  },
+  {
+    "id": "c6ae9cff-8646-4069-8761-df734e067beb",
+    "name": "Plateau",
+    "collector_number": "284",
+    "type_line": "Land — Mountain Plains",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Cornelius Brudi",
+    "image_normal": "https://cards.scryfall.io/normal/front/c/6/c6ae9cff-8646-4069-8761-df734e067beb.jpg?1559596650",
+    "image_small": "https://cards.scryfall.io/small/front/c/6/c6ae9cff-8646-4069-8761-df734e067beb.jpg?1559596650",
+    "price_usd": "331.07",
+    "tcgplayer_id": 1527,
+    "price_market": "331.07",
+    "price_median": null
+  },
+  {
+    "id": "5ae71290-c133-406c-8b17-9ea22b437806",
+    "name": "Savannah",
+    "collector_number": "285",
+    "type_line": "Land — Forest Plains",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/a/5ae71290-c133-406c-8b17-9ea22b437806.jpg?1559596670",
+    "image_small": "https://cards.scryfall.io/small/front/5/a/5ae71290-c133-406c-8b17-9ea22b437806.jpg?1559596670",
+    "price_usd": "357.46",
+    "tcgplayer_id": 1552,
+    "price_market": "357.46",
+    "price_median": null
+  },
+  {
+    "id": "472034a2-0ba9-4876-ab7a-aa7013d603bb",
+    "name": "Scrubland",
+    "collector_number": "286",
+    "type_line": "Land — Plains Swamp",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/4/7/472034a2-0ba9-4876-ab7a-aa7013d603bb.jpg?1559596701",
+    "image_small": "https://cards.scryfall.io/small/front/4/7/472034a2-0ba9-4876-ab7a-aa7013d603bb.jpg?1559596701",
+    "price_usd": "399.81",
+    "tcgplayer_id": 1556,
+    "price_market": "399.81",
+    "price_median": null
+  },
+  {
+    "id": "54c5c65a-a444-4e0f-ae44-a3722cdd32a1",
+    "name": "Taiga",
+    "collector_number": "287",
+    "type_line": "Land — Mountain Forest",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/5/4/54c5c65a-a444-4e0f-ae44-a3722cdd32a1.jpg?1559596847",
+    "image_small": "https://cards.scryfall.io/small/front/5/4/54c5c65a-a444-4e0f-ae44-a3722cdd32a1.jpg?1559596847",
+    "price_usd": "379.97",
+    "tcgplayer_id": 1585,
+    "price_market": "379.97",
+    "price_median": null
+  },
+  {
+    "id": "a0f5c6bc-65dc-42a1-a62d-a0b101310a1f",
+    "name": "Tropical Island",
+    "collector_number": "288",
+    "type_line": "Land — Forest Island",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/a/0/a0f5c6bc-65dc-42a1-a62d-a0b101310a1f.jpg?1559596932",
+    "image_small": "https://cards.scryfall.io/small/front/a/0/a0f5c6bc-65dc-42a1-a62d-a0b101310a1f.jpg?1559596932",
+    "price_usd": "520.08",
+    "tcgplayer_id": 1595,
+    "price_market": "520.08",
+    "price_median": null
+  },
+  {
+    "id": "9c9d5f72-e199-4d5b-ae7e-cc5b9bdfae99",
+    "name": "Tundra",
+    "collector_number": "289",
+    "type_line": "Land — Plains Island",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/c/9c9d5f72-e199-4d5b-ae7e-cc5b9bdfae99.jpg?1559596750",
+    "image_small": "https://cards.scryfall.io/small/front/9/c/9c9d5f72-e199-4d5b-ae7e-cc5b9bdfae99.jpg?1559596750",
+    "price_usd": "529.94",
+    "tcgplayer_id": 1597,
+    "price_market": "529.94",
+    "price_median": null
+  },
+  {
+    "id": "1f35877c-e66c-4ef0-842a-f68cd233ae4b",
+    "name": "Underground Sea",
+    "collector_number": "290",
+    "type_line": "Land — Island Swamp",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Rob Alexander",
+    "image_normal": "https://cards.scryfall.io/normal/front/1/f/1f35877c-e66c-4ef0-842a-f68cd233ae4b.jpg?1559596915",
+    "image_small": "https://cards.scryfall.io/small/front/1/f/1f35877c-e66c-4ef0-842a-f68cd233ae4b.jpg?1559596915",
+    "price_usd": "862.75",
+    "tcgplayer_id": 1599,
+    "price_market": "862.75",
+    "price_median": null
+  },
+  {
+    "id": "b12e5430-0e80-47dd-80ac-85728b656a24",
+    "name": "Volcanic Island",
+    "collector_number": "291",
+    "type_line": "Land — Island Mountain",
+    "mana_cost": "",
+    "rarity": "rare",
+    "colors": [],
+    "artist": "Brian Snõddy",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/1/b12e5430-0e80-47dd-80ac-85728b656a24.jpg?1559596837",
+    "image_small": "https://cards.scryfall.io/small/front/b/1/b12e5430-0e80-47dd-80ac-85728b656a24.jpg?1559596837",
+    "price_usd": "716.60",
+    "tcgplayer_id": 1608,
+    "price_market": "716.60",
+    "price_median": null
+  },
+  {
+    "id": "275c03f9-f9d2-45c5-a332-b3bee54e7065",
+    "name": "Plains",
+    "collector_number": "292",
+    "type_line": "Basic Land — Plains",
+    "mana_cost": "",
+    "rarity": "common",
+    "colors": [],
+    "artist": "Jesper Myrfors",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/7/275c03f9-f9d2-45c5-a332-b3bee54e7065.jpg?1559596747",
+    "image_small": "https://cards.scryfall.io/small/front/2/7/275c03f9-f9d2-45c5-a332-b3bee54e7065.jpg?1559596747",
+    "price_usd": "0.47",
+    "tcgplayer_id": 1524,
+    "price_market": "0.47",
+    "price_median": null
+  },
+  {
+    "id": "22f6e971-349d-498b-ae01-ab81ce21772c",
+    "name": "Island",
+    "collector_number": "295",
+    "type_line": "Basic Land — Island",
+    "mana_cost": "",
+    "rarity": "common",
+    "colors": [],
+    "artist": "Mark Poole",
+    "image_normal": "https://cards.scryfall.io/normal/front/2/2/22f6e971-349d-498b-ae01-ab81ce21772c.jpg?1559596675",
+    "image_small": "https://cards.scryfall.io/small/front/2/2/22f6e971-349d-498b-ae01-ab81ce21772c.jpg?1559596675",
+    "price_usd": "0.75",
+    "tcgplayer_id": 1455,
+    "price_market": "0.75",
+    "price_median": null
+  },
+  {
+    "id": "95e936cf-3bbb-4f3b-8e1a-4be1d4702b99",
+    "name": "Swamp",
+    "collector_number": "298",
+    "type_line": "Basic Land — Swamp",
+    "mana_cost": "",
+    "rarity": "common",
+    "colors": [],
+    "artist": "Dan Frazier",
+    "image_normal": "https://cards.scryfall.io/normal/front/9/5/95e936cf-3bbb-4f3b-8e1a-4be1d4702b99.jpg?1559596711",
+    "image_small": "https://cards.scryfall.io/small/front/9/5/95e936cf-3bbb-4f3b-8e1a-4be1d4702b99.jpg?1559596711",
+    "price_usd": "0.60",
+    "tcgplayer_id": 1581,
+    "price_market": "0.60",
+    "price_median": null
+  },
+  {
+    "id": "30345500-d430-4280-bfe3-de297309f136",
+    "name": "Mountain",
+    "collector_number": "301",
+    "type_line": "Basic Land — Mountain",
+    "mana_cost": "",
+    "rarity": "common",
+    "colors": [],
+    "artist": "Douglas Shuler",
+    "image_normal": "https://cards.scryfall.io/normal/front/3/0/30345500-d430-4280-bfe3-de297309f136.jpg?1559597102",
+    "image_small": "https://cards.scryfall.io/small/front/3/0/30345500-d430-4280-bfe3-de297309f136.jpg?1559597102",
+    "price_usd": "0.38",
+    "tcgplayer_id": 1502,
+    "price_market": "0.38",
+    "price_median": null
+  },
+  {
+    "id": "b6e1c2e9-5572-4242-985d-f509d628092b",
+    "name": "Forest",
+    "collector_number": "304",
+    "type_line": "Basic Land — Forest",
+    "mana_cost": "",
+    "rarity": "common",
+    "colors": [],
+    "artist": "Christopher Rush",
+    "image_normal": "https://cards.scryfall.io/normal/front/b/6/b6e1c2e9-5572-4242-985d-f509d628092b.jpg?1559597100",
+    "image_small": "https://cards.scryfall.io/small/front/b/6/b6e1c2e9-5572-4242-985d-f509d628092b.jpg?1559597100",
+    "price_usd": "0.39",
+    "tcgplayer_id": 1423,
+    "price_market": "0.39",
+    "price_median": null
+  }
+]

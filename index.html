@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTG Revised Edition Tracker</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Revised Edition</h1>
+    <div class="collection-counter">
+      <span id="collectedCount">0</span> / <span id="totalCount">306</span> collected
+    </div>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+  </header>
+
+  <div class="stats-row">
+    <div class="stat">
+      <span class="stat-label">Collection Value</span>
+      <span class="stat-value" id="totalValue">$0.00</span>
+    </div>
+    <div class="stat">
+      <span class="stat-label">Set Avg Price</span>
+      <span class="stat-value" id="avgPrice">$0.00</span>
+    </div>
+    <div class="stat">
+      <span class="stat-label">Set Total</span>
+      <span class="stat-value" id="setTotal">$0.00</span>
+    </div>
+  </div>
+
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search cards..." autocomplete="off">
+    <div class="filter-row">
+      <select id="colorFilter">
+        <option value="">All Colors</option>
+        <option value="W">White</option>
+        <option value="U">Blue</option>
+        <option value="B">Black</option>
+        <option value="R">Red</option>
+        <option value="G">Green</option>
+        <option value="M">Multicolor</option>
+        <option value="C">Colorless</option>
+        <option value="L">Land</option>
+      </select>
+      <select id="rarityFilter">
+        <option value="">All Rarities</option>
+        <option value="rare">Rare</option>
+        <option value="uncommon">Uncommon</option>
+        <option value="common">Common</option>
+      </select>
+      <select id="collectedFilter">
+        <option value="">All Cards</option>
+        <option value="collected">Collected</option>
+        <option value="missing">Missing</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="card-grid" id="cardGrid"></div>
+
+  <!-- Floating collect bar for multi-select -->
+  <div class="collect-bar" id="collectBar">
+    <span class="collect-bar-info"><strong id="selectedCount">0</strong> cards selected</span>
+    <div class="collect-bar-actions">
+      <button class="btn-cancel" id="cancelSelect">Cancel</button>
+      <button class="btn-collect" id="collectSelected">Collect</button>
+    </div>
+  </div>
+
+  <div class="detail-overlay" id="detailOverlay">
+    <div class="detail-panel" id="detailPanel">
+      <button class="detail-close" id="detailClose" aria-label="Close detail panel">&times;</button>
+      <div class="detail-content">
+        <img class="detail-image" id="detailImage" alt="">
+        <div class="detail-info">
+          <h2 id="detailName"></h2>
+          <p class="detail-type" id="detailType"></p>
+          <p class="detail-meta">
+            <span id="detailRarity"></span> &middot; <span id="detailArtist"></span>
+          </p>
+          <p class="detail-price" id="detailPrice"></p>
+
+          <div class="detail-controls">
+            <label class="collect-toggle">
+              <input type="checkbox" id="detailCollected">
+              <span class="collect-label">Collected</span>
+            </label>
+
+            <div class="detail-field">
+              <label for="detailCondition">Condition</label>
+              <select id="detailCondition">
+                <option value="NM">Near Mint (NM)</option>
+                <option value="LP">Lightly Played (LP)</option>
+                <option value="MP">Moderately Played (MP)</option>
+                <option value="HP">Heavily Played (HP)</option>
+                <option value="DMG">Damaged (DMG)</option>
+              </select>
+            </div>
+
+            <div class="detail-field">
+              <label>Quantity</label>
+              <div class="qty-stepper">
+                <button class="qty-btn" id="qtyMinus" aria-label="Decrease quantity">-</button>
+                <span class="qty-value" id="qtyValue">1</span>
+                <button class="qty-btn" id="qtyPlus" aria-label="Increase quantity">+</button>
+              </div>
+            </div>
+
+            <div class="detail-field">
+              <label for="detailNotes">Notes</label>
+              <textarea id="detailNotes" rows="2" placeholder="e.g. Slight edge wear"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
