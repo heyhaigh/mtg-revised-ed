@@ -582,7 +582,7 @@ header h1 {
   }
 
   .detail-image {
-    width: 280px;
+    width: 320px;
     flex-shrink: 0;
     margin: 0;
   }
