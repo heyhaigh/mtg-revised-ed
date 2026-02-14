@@ -19,6 +19,7 @@
   const colorFilter = document.getElementById('colorFilter');
   const rarityFilter = document.getElementById('rarityFilter');
   const collectedFilter = document.getElementById('collectedFilter');
+  const priceSort = document.getElementById('priceSort');
 
   // Collect bar refs
   const collectBar = document.getElementById('collectBar');
@@ -76,7 +77,7 @@
     const rarity = rarityFilter.value;
     const status = collectedFilter.value;
 
-    return cards.filter(card => {
+    const filtered = cards.filter(card => {
       if (search && !card.name.toLowerCase().includes(search)) return false;
       if (!matchesColor(card, color)) return false;
       if (rarity && card.rarity !== rarity) return false;
@@ -84,6 +85,17 @@
       if (status === 'missing' && getCardData(card.id).collected) return false;
       return true;
     });
+
+    const sort = priceSort.value;
+    if (sort) {
+      filtered.sort((a, b) => {
+        const pa = parseFloat(a.price_market || a.price_usd) || 0;
+        const pb = parseFloat(b.price_market || b.price_usd) || 0;
+        return sort === 'low' ? pa - pb : pb - pa;
+      });
+    }
+
+    return filtered;
   }
 
   // Format price
@@ -324,6 +336,7 @@
   colorFilter.addEventListener('change', renderGrid);
   rarityFilter.addEventListener('change', renderGrid);
   collectedFilter.addEventListener('change', renderGrid);
+  priceSort.addEventListener('change', renderGrid);
 
   // Init
   async function init() {
