@@ -126,7 +126,7 @@ Use `image_normal` for grid cards — `image_small` is too blurry for anything b
 
 ### Mobile vs Desktop Card Art
 - Mobile: Stack image above info, image at full panel width (`max-width: 420px`, centered)
-- Desktop (768px+): Side-by-side flex with image at `280px` width
+- Desktop (768px+): Side-by-side flex with image at `320px` width
 - Original 160px was too small — 3x increase to ~420-480px makes the card art the focal point
 
 ### Layout Pattern
@@ -145,7 +145,7 @@ Use `image_normal` for grid cards — `image_small` is too blurry for anything b
 /* Desktop: side-by-side */
 @media (min-width: 768px) {
   .detail-content { flex-direction: row; }
-  .detail-image { width: 280px; flex-shrink: 0; margin: 0; }
+  .detail-image { width: 320px; flex-shrink: 0; margin: 0; }
 }
 ```
 
@@ -233,3 +233,57 @@ Key: `mtg-revised-collection`
   "price_median": "13.59"
 }
 ```
+
+---
+
+## Deployment
+
+### Vercel
+- **URL**: `mtg-revised-ed.vercel.app`
+- Linked to `heyhaigh/mtg-revised-ed` GitHub repo — auto-deploys on push to `main`
+- Static site, no build step needed
+
+### localStorage Persistence
+- Collection data persists per-domain — switching from `localhost` to `vercel.app` starts fresh
+- Once on Vercel, data survives page reloads and redeployments (same origin)
+
+---
+
+## Session 2 (2026-02-14) — UI Polish & Features
+
+### Detail Panel Image Size
+- Increased desktop detail image from 280px → **320px**
+- Aspect ratio preserved automatically via `height: auto`
+
+### Collected Card Visual Indicators
+- Green border on collected cards: 2px → **3px**
+- Collected badge (green checkmark): 22×22px → **33×33px**, font 12px → 18px (1.5x)
+- Select button (hover circle): 26×26px → **39×39px**, font 14px → 21px (1.5x)
+
+### TCGplayer Price Links
+- Detail panel Market and Median prices are now clickable links
+- URL format: `https://www.tcgplayer.com/product/{tcgplayer_id}`
+- Opens in new tab with `target="_blank" rel="noopener"`
+- Styled with dashed underline (`border-bottom: 1px dashed`) to distinguish from plain text
+
+### Price Sort Filter
+- Added "Price" dropdown to filter row: Low → High / High → Low
+- Sorts by `price_market` (falls back to `price_usd`), cards with no price sort as $0
+- Resets to default collector number order when set back to "Price"
+
+### Custom Select Dropdowns (Chevron Fix)
+- Native `<select>` chevron ignores CSS padding — spacing can't be controlled
+- Fix: Override with `appearance: none` and custom SVG background arrow
+```css
+.filter-row select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,..."); /* inline SVG chevron */
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  background-size: 10px;
+  padding: 0.5rem 1.75rem 0.5rem 0.75rem; /* extra right padding for chevron */
+}
+```
+- `padding-right: 1.75rem` gives space for the 10px arrow + 0.6rem right offset
