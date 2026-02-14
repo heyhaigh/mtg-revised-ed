@@ -239,9 +239,17 @@
     detailArtist.textContent = card.artist;
     const mkt = card.price_market || card.price_usd;
     const med = card.price_median;
-    let priceText = mkt ? `Market: $${parseFloat(mkt).toFixed(2)}` : 'No price data';
-    if (med) priceText += `  ·  Median: $${parseFloat(med).toFixed(2)}`;
-    detailPrice.textContent = priceText;
+    const tcgUrl = card.tcgplayer_id ? `https://www.tcgplayer.com/product/${card.tcgplayer_id}` : null;
+
+    if (tcgUrl) {
+      let html = mkt
+        ? `<a href="${tcgUrl}" target="_blank" rel="noopener" class="price-link">Market: $${parseFloat(mkt).toFixed(2)}</a>`
+        : 'No price data';
+      if (med) html += `  ·  <a href="${tcgUrl}" target="_blank" rel="noopener" class="price-link">Median: $${parseFloat(med).toFixed(2)}</a>`;
+      detailPrice.innerHTML = html;
+    } else {
+      detailPrice.textContent = mkt ? `Market: $${parseFloat(mkt).toFixed(2)}` : 'No price data';
+    }
     detailCollected.checked = data.collected;
     detailCondition.value = data.condition;
     qtyValue.textContent = data.quantity;

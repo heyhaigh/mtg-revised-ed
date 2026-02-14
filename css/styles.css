@@ -452,6 +452,17 @@ header h1 {
   margin-top: 0.4rem;
 }
 
+.price-link {
+  color: var(--price-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--price-color);
+}
+
+.price-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 .detail-controls {
   margin-top: 0.75rem;
   display: flex;
